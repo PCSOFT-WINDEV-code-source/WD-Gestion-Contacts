@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Jauge
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Jauge
+ identifier : 0x2d5e78b954e64c03
+ internal_properties : CAAAAAgAAACpddbGC+Z8G5N+bkOXVCZxFPTMX1YFc7JlsCxjyIY/NrCAtvG28rRp3XruQQ/1qO0ifBQxwzSrYRqnM/iJzgiMR7IA5Bze2AqaYAV3nfwKBjbmGm6ebjJvoeVoRUZYJtPVD4dyszxD5S4ejbpZsTtQV6QxjBg7/+QEx93a4yRl/h2nYOqwnpBOiuUbXQEi/SmLRD51bgOiijiSDUBrvj9LrEcqVtfBgvm+mLN484BN1oJTb1PP/QHkw7UzIPfcOaPduviwpFlnELfdjT73BrgSRM3j+FNNa88zWKYJJG7sKW8j6kAsyySV/AOP0YSTWcN4E3yIk0c+1b8RRdQ5xSl7/QKd6tLTvP8AC/mW9lmDhdfm7078vtSg/+9W9gUt2OTkNwM55qYFJ668YW40fdR2xj8ICZNhiE0sbLfUn95gNNrg3UH17fmS9345vw5Bl33N2ykeUIQlFvIcAzKdK1ImNRhm+R1o00FnWPyX1TWyvoz/Q9i2GgAsddh5K5cNgwU6x6nvSXaia1WtZ0Sg+eWloBBudqMP8idM3cd+7VUT6JEiqKbq7gnCoEcgKuOx94vphcHOTEYTa9E8Tt67H5nW9RaCWsmUXYrL3RTx9Y7ALLpYLYLmsPv+AMnfJqiiz1Ru97VUhbbiU7Yh016upA3GePoz1w7NYHVImGtFY1SsH9h0H2FO3yt1hpk1hqDQSBkBsIDyYOLQZq1EKeifvZq5vbU435v4JWNZqnfB7QZgnU72TdLRowWRNN5tZg==
+ properties :
+  width : 348
+  height : 72
+  widthClient : 346
+  heightClient : 70
+ controls :
+  -
+    name : JAUGE_EnvoiEmail
+    identifier : 0x2d5e78ec631e10f6
+    internal_properties : CAAAAAgAAAA55wGGzxsRtuJmVVmXxwmdcFTfhx2jJe7a1VJeDBvVEHYZlXlxOkQy1oxTo+VA8SE+QpqLryZBrzUlYaIPhBLPeYomFEu/K8BGNJNp0f24ohhxWP5An6KY3fgK1hIhj8xGNapEN53GwojTpNjS8X6UWiB3gPtgoVhiCVpuMi+rIXmB0bo/Ark3wsyZNHBjlAuQ7KoboJ+cGq8mETeaRl8wtoWi0gUGVxrdybQPY4D/rV0iRTwEWiad8KX1ISf7W9AkYhrtNWDrZruGOU40MRo2gHzUy7bwldIWbOq659C9jai6IJUeuTGj0mLOAv/c9SkwTTuDuEF1vqE0gZv/tnonHykr8tCVrhinMQTw3BbY6UJVG5FIK8BbcFoRZxNBoGu5gVrb5HoeqOgJ4umeUfit2dIAk3E32y4cX9/dZedCZlU1V/czhFq+mczlNfAKyKbiOepf6siA/I0CdWuMgmg55HDZk8O7IatsFHOkLNqEsAMK75ABE4RMfK+zw0n7/6RRRXzLzjIdVzCr4/KZyObo06i4XTkm9ZIIA5XrJ8gxj6wpCn9Q6qOISYALj3tLBf/UgbqgiiMg0oMJJ8a82IVtnCvUGCXFpxgSoQkU18d26EU6DIe5uoF0I3do2QP0yM3jJbJ/nz1TdBVycwejmlMEEgZDCDiRkjcyLyYCSzIbYBlKdKP2KiXzM3FbFLoivkvRUFUmgy23ru1rTzoSLN6OfwNE244TqKJB251vf6Zk+PRDXtewuI+Z1a0K320eDtgWv18SPo8PR7D97rLR02szo/0waf3ZgDKchxmHqCQsLFNmvLs=
+    properties :
+     x : 6
+     y : 33
+     width : 334
+     height : 20
+    type : 10
+    code_elements :
+     type_code : 17
+     p_codes : []
+  -
+    name : LIB_EnvoiEncours
+    identifier : 0x2d5e795d6cd7cc78
+    internal_properties : CAAAAAgAAACFPD9c3Cgx8w3B1lNf9qOzD8q30MhIAiqa9+9pzZgmrnox55V3gErNFcqQ5CGlE3fkDfMLuwsKetjo3QIBqu28URf4Lp5dLu5EKoz/89GTC/k1Q89dCbAFHBiF4kTT+aAP6offwNvjEWLxZ0GbCV/Ti1Y4LMijqzZjWuk+cmLDBufqmCvnkGCQLkd0pF1tvVD9dEh1vzDzFSml0OG6e8uvEcDEeWmmvMUvGtmQltt14OG5taHfd8dOAiYQyvBv/Yw02KwT+KN0InW4plVNwXukcUlPgC8Zh4IyPtIJwlzGFd67YCt9Aj8Ze3JPlFcvAIc/fbcTNy9h2kzAZyKGUWHZ7Eq7kNID4MvvN8gAX87EwNbD+u9T2CRgYAvPvD5FeIEN3iy6Xh1WIoXXOPdr6KJe8AUl56/mpFkd48rA2o2bdbObOD3SO7O0LqrtrH29HOgGjTPVk8IClh2B0oktmhhRxDAeHho=
+    properties :
+     x : 6
+     y : 5
+     width : 170
+     height : 28
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2d5e78b0527d2706
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACZ248uvlc15onuGmIUajiC3313kH8j6HS5vIAnXFd4PvEqPQBFNUlH7hAwMKF6Xm8JEHwF6ZCYR4R5OBFhz/6XFOqbegqnLFJoBz6ghODbACHWuKRxSXcK0bTF3g==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADWB2XZIEuq19ah4fk/6Qvb2iS0i6TMzabkHsjJj2nbmKBgd5VUnj+5zOXnWLGz5+ZSxFoSe3hNRvjo469akTx5LXXyaibsqmtf1BThqDU/RYnaKBI3UrLom3gnpdh/ISTxAefpXm44BBpJ+h+Iy+zTcryVudA9QQNmm4fEJUI=
+     code : |1-
+      //--- Fenêtre Popup ---
+      // Pour accéder au champ ou à la combo popup qui a ouvert cette fenêtre
+      // vous pouvez utiliser : MonChampPopup
+       
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FEN_SansNom
+resources :
+ string_res :
+  identifier : 0x1fbcee1e0bbdca7e
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

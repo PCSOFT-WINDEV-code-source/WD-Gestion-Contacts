@@ -1,0 +1,79 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : GestionParametres
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x1d5e7a5702439c64
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  type_code : 31
+  p_codes :
+   -
+     code : |1-
+      
+      Constante
+      	// Nom de la section où sont stockés les paramètres
+      	cstSectionParametres = "Global"
+      FIN
+     type : 720896
+  procedures :
+   -
+     name : ChargeParamètre
+     internal_properties : CAAAAAgAAAD4TQAAlCJTW+XeuCYSW6qYPO5u6ojfQcrMFuGUasxx/WZ6VSY6rOI+4N9h+NK2WFAYIiXELm+nXdn3wDKSk2lZejVPlBazJb/SJroe0OaZ+pTeUYAHs1VC4+vRUt6dOL+ls4dsHLBUzEfDCn2nCWOODnOQu+WasvpQeR6EnhA7wx4tN7M4cYn2Jy8alCTvVuoCsPsoHbAeDJYCWKkg8BxadV8qCLr/jbBPMRKrd6oV9b1GcfOpetKotoG0X21WGZtcaI5Cp8bzWpG2ndhWT4cDFGBvzQKx1K0ytraR0ClPtPAjiBhPlq+0+FVUp82HKyrDuK1g2SZfFE1btPZcxuv2pQCTki86I3yrRBX4/4JE6u/Y+wePTrqrmAgyLremx5jFAPgpwukjGjA=
+     procedure_id : 2116263556533269536
+     type_code : 15
+     code : |1+
+      // Résumé : Charge un paramètre
+      // Syntaxe :
+      //[ <Résultat> = ] ChargeParamètre (<sNomParamètre>, <sValeurParDéfaut>)
+      //
+      // Paramètres :
+      //	sNomParamètre : Nom du paramètre
+      //	sValeurParDéfaut : Valeur par défaut
+      // Valeur de retour :
+      // 	variant : Valeur du paramètre
+      //
+      
+      PROCEDURE ChargeParamètre(sNomParamètre, sValeurParDéfaut)
+      
+      // Lit la valeur directement dans le fichier .INI
+      RENVOYER INILit(cstSectionParametres, sNomParamètre, sValeurParDéfaut, gsFichierConfig)
+     type : 458752
+   -
+     name : SauveParamètre
+     internal_properties : CAAAAAgAAABVoUHHHx2VMZJbc1fFod6X+2gKG+xlBvt4ohIhYDp2JnPW4MHa0MAJnZpmuDlm1osGQzE8Gpo/v6TjhpNA3fnZ0IOVQ3Nv31vfq+iZRW4KRQ4mk5lk6JxUdAxIJIqKzIYIOUgt2NIkmuMrOUUrQgg9XgEYWHA/BgHTMVS3pae5vkDLsV4bl5eWroPUwRhj+GtSJw8NnS8qQ1Pauee2o/Ci+pBWreihW37V1pkm9L9GAztx7sM9MM0PB/tXbnv/hgArpw33DCeC8w4xHF2bihoKFwGolEFqQw4B43PWZXSK15NmQ91UkaSnEXh3VLKQ/Bv8HEE0FZlo8KjvB5RyiWOgY2u/+wqFHrb/EFmY/y1Jfc0nNDZbooY/uTXbQWr5Id6C+8EfxHm8oIN5MgW6gbh7lJa9i+SFeffd
+     procedure_id : 2116264114879147590
+     type_code : 15
+     code : |1+
+      // Résumé : Mémorise la valeur d'un paramètre
+      // Syntaxe :
+      //SauveParamètre (<sNomParamètre>, <sValeur>)
+      //
+      // Paramètres :
+      //	sNomParamètre : Nom du paramètre
+      //	sValeur : Valeur à mémoriser
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      PROCEDURE SauveParamètre(sNomParamètre,sValeur)
+      
+      // Ecrit la valeur directement dans le fichier .INI
+      INIEcrit(cstSectionParametres, sNomParamètre, sValeur, gsFichierConfig)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : COL_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fbcee1d0b74c916
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

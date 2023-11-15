@@ -1,0 +1,1047 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Contacts
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Contacts
+ identifier : 0x284cfb6c0c6401da
+ internal_properties : CAAAAAgAAABliWvChzGyRnTaDDLuq4jQZ1pQhX2MWKMuXcLYknk5fjcBhhTVAd94eS8rqaT4PffnX/N/+zZHISnIDIcttZG7XuGq7c2XPbXnK8CaWMkyq54wjkr299oCWEbSS8asuHnZX8x9Q5v29BDZ1beTeCFjB1bbY+qDaL4iDgaag15faToNzy/TsdWFwZoImWpixxDfhTVZL8gEKm5e2l6HYwYhK3ESJ0sE3grHB3rsjVxeSPF/LFHkyovpD/XlXCwg7dXfXYLcrdrErCykYmlHPogKQuT2cwvfJac/j0ixkTF2QsUsGVeW7y+ILkTn2KZtSeF3QteTsIZ+YJLT7tVglodzUpLqntt7X79KiD4ydd1unaLhSj4MpxyorAvIlk40QpKp/knmFPcYyzOc+d8UwH4u0XMhzQzAsl9XlfmxewCqb4jPEYb4rHlLuXc41sXBerLjhHxf2ZTPqh56quKofKODwP2+V9IsGs4wZr0LRQjrVT9Joe6UqbMYWtmrOZQAEBimipl4sFAskClifv9tfXZ0hik47peYjE1N1vihip/2Zg8qOOAYn2MMMqEwJYKequX3XKV+jENkX1gK6gAaZaqycpb6+2CCeH9DZIPfirCghbvP0wr6XAIXkXyzjqE2OTt9CVFzgInYK+WEgCvLK6lrGuPODVu0LZ7BvgmEaV3/a6X78oE0K5cBAYpLXaxNhNSoV8ACVJNfIJsjR3AGp1dqX1UmNAwip1sH0YULUTn+72WYYRVVrEpQexsEdS1KKhyGFjYDUVMRl5I7MiKfvINGkKvhY3XH4ZBZHaPYe2Kj3LmqLBJTWgOXpadpegYvfdcMK5QYCk2Yyv9e0u1EZRHrbV6uGtK7rrLBALUGSxgIog3R1Hswg9T21YaY/8U9T/f+FZYR6s4nMbLUMUgWUDn7pKMWSCcVpbxGH40ljKS+ZsZX5w+LJtKEbjkD8Cs60cyzYcdrZS0f8aSC8yqEvwr1OGXIa1ER2la1pLZfDq/1AKUraItnGgp0P3VHqgxB6NjnS9th/+3g2sgf3ksZ/h5Af1bO7cxDvhcIEzdkPS/9lY4UIvayggKRyBNtp1rg0Aw0rq9YTHatkWgepvTzEv3gRJcxKxn4yyaIlsgiSQvjMhr5ErOJ8L0p+sZ8+IZASnj/HlkePT86OrDHNJ1X9fbAv6cPCZx2wsX1i0Rnc+psOlwYe4o5H45sbucUV5LrlEvWyVeFo0idyQp24IxkNfe8WQ+PI22SWuHzjqidCAJVuAwaLzOEJ5CnKD+O0aUFr9QiBMj/
+ properties :
+  width : 1080
+  height : 704
+  widthClient : 1078
+  heightClient : 672
+ controls :
+  -
+    name : LIB_Information
+    identifier : 0x284cfc231cf9ce48
+    internal_properties : CAAAAAgAAAARgBgx6Ve3khOPJUPtMRun8ihTQgcX5MeWz+4tFTXebx/8bk0yvwfCQ1MCZwI+rORzTloKJWm4h0cHHWMye5xJZiLHbAl19/dGaVA8moSXkXtkrHk04l6cNuEFLBvMYqo9YZ+GZdj8qwwX1b9xpDVLQo2TYyHWjfYhBoFRz9ISnYLVgLJsAJ44PmixWu8wD766Spo8tDsSuOHPtv+2n4F5MizMNq1JvXDJMZJ4SMHWobFFU2gYIBePXZsVyGNxobnrLU31VSCRoVSq2iLyX/74H9YMsnftvXLHZZhLteww6AMfGgDMP4aVnXb31AsQRSAQSStRuxAqiKJRu8Ai35LnPyvciwTGXJya1gLHyo/Z4Gp5hDxqmdxGtmm/aTFLvv96y/526gh0TR/RPFNoRPBoU4XSaBTbbJbw4S/kobZiBxvxOkhFmvVR0zWnKf14Axf31V2cxwOXHzKSL7G436zONBRMkVGPn6j3QPTSLwiWASbzQdXsjmHhCQaAjyZg0D+34N/IM252fZXVyg+hjZSz2t4qcDNrIRbatIN9ca7HNJ7wRnS8wEiR1g4EDxkMqwb50B53+Z3Ezrep5lRLAHOsthgQ
+    properties :
+     x : 18
+     y : 101
+     width : 602
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : ZR_Contacts
+    identifier : 0x284cfc7523c90b5c
+    internal_properties : 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
+    properties :
+     x : 13
+     y : 158
+     width : 1046
+     height : 394
+    controls :
+     -
+       name : IMG_Cadre
+       identifier : 0x284cfcba2ab51b45
+       internal_properties : CAAAAAgAAAClxWU/XRUukANAkLh5M4W6YfffusjGlHVmtFiq7b/lnm0o4IkBFVjnrNSoQ2PPP1yqlA08GzSXH/qY0+A7DP+564aS0GqUgK6qD1JdPKQj0AoPldp1OjEa2MB08aIzwLgAoGHljsc4eDfO/wpoSEv/mz01nBy2IaxiqBEadINvjwtCpQ5l0fkNMuxWEOkGJ8NBZ2wzcP/0xmWUdEJTVAFCC4vs1UYVzPMg80J3hX05dFLRgp+D2fxKVJN+bWCmaXrWLTBaVCgsNXgktwCG0/wxDOrRkhL9K0LTpcp9tuqa+Y50x4JPcsxONKZaLV7ykMGBribcjRR6+xgi1mCIoK2koHqVVZ/vWvFTTVl+coou0q+Fps4sQF8ygdZodsvjVEr84GD1FmY9ZUT3/lr9n8I4LlGXumITAHGwEGLLCDrBK3ikEz+EwlVfSNEoHiwEcCohkqrrkfM3u0rM9kFijvcawFkDDk9NDUD63sizjA9CDOicu9lsSHg20Q1BWTjosEM9iSJfCnT+6OFOvud4E6rSt7AcbQ4w3cCSovkkuRfoH3hb2nmEiI7lB85xXqVOE75vYkf47aFBokhzQg8Yq1dn5ESM+qNV18YMuuJXnsnbLtBhyLus+fHVoy5IZUXQdCYYpB6poHj2NpexFyJsv3ocYgqQg7EtdbDv99+ivaVybBpWFZ5wQanwRs0hYDDo4SzVSU8kc0NsYjH3jylvDo4fTn+Hnh5RTumL+3t62NzBubUdsWDM7b5ShurYrUv5JZIxzdjIXVQlImYjDHG9oDt3Nef83h8XeaQ6TWq/DPm0Y4X7g1WnygAAzSGCtwoQN11leUWl2JLT6+lO7xRGwHeKnw==
+       properties :
+        x : 5
+        y : 5
+        width : 140
+        height : 188
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Contact
+       identifier : 0x284cfd673e3ebf9a
+       internal_properties : CAAAAAgAAACqMI8JoKvdVm/ybnkh3zUErvW6Aps5VEtFTIiB/UOh/DuZrlCvGVGkinriqtpyFUQ4M4M5bbvaIuFXw7fmTJxqzV9gKCbyAGM90Pt8WJQUrlOSIkIsQP/RLH/tWmo6aDXsF0nxKzulgTvdiXdwEtohK2/JNe2ebUF4xpUayFW6u9PMs2NZhDMuoSQ+lQEhhroWp/sGkFyZ0I6Bppn0Y/ZCgG7/L5asPTmqo1n2fS6Xht/cVj7VjVdUoqn9K12pUICZLrNBTnsnUJ3qurIK2pZ8u7Kqyldi4W4PgbosX29fmxfOYUkIlGcZ8SUnoXq4AKS2cQlUYgdR2sHwbHLNB5jQ6b+fNRHWCbzdkZmp5lvDlvuOL+lq4seyoway9/cFYnFYVT+LtKDRXxOKNQoOgg8woPlHhFMxzHxQB9O7HaUfqbjwYkHStaZqyBNW7PiSkhHw8LsDelkHf5Q9UqDraunHk9Didc/eUb2L75Qi5IthA6cu6J3aEnl3lUH3azDVsqeutYyLxSRbsg5QteRUa+4R8o5bVuIBj+c1olW+zAB48kREE1Y4BScU4qJ5EiA1Q7BRGgSi+WIFVQkUFupwOx8uKfiMtVYUXbul/Gp1cQwa/91lNWeIh4Fr2iQBtXwfMDIaPXr8ozD0xobIz+E2znC5F5dGef6eOwiyqYY2DlXlI3dtcKBuMC3eZBp08+uGQbVBCyGnFKP3B7KptqvhZXUHSYEk2FXt24EbsNY9d8Hu2TJAMDlpbSBM1ccRgv06JgxhV6SRydLCRvnXP9eNmuLwqEXn0YhyQhxb+195/zTZrRy0uQzrTq8Ch6z1tJQWeifITv/jYPB7zmVjrYElgeYE7Z9NzVNM
+       properties :
+        x : 10
+        y : 10
+        width : 126
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : LIB_Nom
+       identifier : 0x284cfda141b59f5b
+       internal_properties : CAAAAAgAAADXA8SeaR0d2hjIOvtlL9sNT7duWz5ii9CGldMyxVsXudiytQybYucgCfC3SbVcOVgmMMEqrlwVZPBXUUVa6cxv4rSnbLtoYTIDWb5TQo2RAVjR+7sNLgWk85j+uSqbvBsbya0PeRVw7f1vyFMq0Qnjd4ReLmrtXItWISZo4kyX1Pn13rqefQpUi8KFTlHCRt8wacA5fRrhgVdNgwjizYmfp2Ey51WlA2INg5BOT91hdL53hZJnTYU0RYG3tWjDIcf9tzV/tizRpwTmYHqic1bN2Uybdw1ceBtpgMCbtigSgExLNaMMLg+oaSoKXyWZjDODnzooV9CLB6o5b+CA68gHO6fMqCSTjGjIeXiq++czaptq3DiMwGykivPn5EF8k9XmW/oUnZ9zaepbyEkcBm/+PnBPoeFKuY1/ixNMziMhi+RNbRtZ2Lg9DyFp/Vcn2UYuX7USv9bKPyqYuH+SN11VttxYkdQnXptg/jY=
+       properties :
+        x : 10
+        y : 131
+        width : 126
+        height : 15
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_Pointillés
+       identifier : 0x284cfe2e4a90c75c
+       internal_properties : CAAAAAgAAACLfhKqqPvHFFzLvxSa7BBdb66ZYpMpNsXcVJpGJko/gMpC9bJdxch2iHwoaheaznzTUHgJtKrvgFSs/JaFLiI0azQN0w5Ed4ZgIWmRpdW7ilv/JvmxAYEGfCMISwLsJNRLdQte3guyVM0ySsPZSmFfhjHvY5PbIC6E9gGLQruv5EEgz1yMdWekWQpibU4Hbrea+TAhS80STkCYuYvuob6/rJoPpPhH4PMkCEpihEZlTTIuSCmZq2GPSh8lJhXMnZnx5hNsuFj+uSTvsasA0ZXY0jGxv26oz2NJNPUQff5Y8mnokycdH8TXoBxhzR2gqgm1CkVYCWZDoAVqUXak5rpahWn3Zxw6wszixmyVlHo7bq0MVsk3vIIS79MO3R4HSMWS/QF669bn8cj0jnuukVPxjDJ3RTQAETL5oRdZjY7CudzxXX1+TjvZGNmNcjoDSgB2VLe3Kbq70M+GJ6yUGgaXF8mgFaCDxj9HKR9D16MW10JWBOXEBYv77xb/5nCL9ZwOb+I5Cj1oJpHJEP2mfjMXT7F3xhLQD5WBTVADDgAkALkLMbZGLWovw5z3DK6q0LNvzgovUDgxKa9jR0ht3+0YYjwGP6FfGHIuvnAICBhkAHYJ7aCIRBnc3ijwUYlHq1ZoYTOK3kWWsVhdDpUd+LC43QTHptZ4/NDrJC7VB7zKE+V1hEYlxer5hHcGse0Qb/xyzdY5l7FtG6iH19LPxii2r7BAxT/Uyji01Z2rxkFdeOvLayTxrEwc19d/Bh3lgns1uAil5g2nbW93v7du6m6ln0TSi2RuNgr+Tmn133Spa6nip3Gwiq0FAI4kMDwbf/07bWoDVjQBrqVvTUo=
+       properties :
+        x : 10
+        y : 162
+        width : 128
+        height : 4
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : LIB_Email
+       identifier : 0x284cfe444a951c61
+       internal_properties : CAAAAAgAAAAL++TYTA/yMzaxb/fOq49KrvQ4y7PuI8GGBlYl4Oi3rEblXogELCW2RKsZxtxnXHdkRvN39ki8sgYcrrBJEqAXQoYoBLz4gEFdNN0b62VkalLnQLjYGYpll+jN5CM+nM8q/Ske/Je/lf3SnSfjlsgsnGc0XyaMgbmuxGkFOOAPqBbmxiqQNj8wEa8/by4J6sR4GO5YIOmXuSy8thQ1jsuVpo6z9UKpoLWLtW1xVFHgM9JizYy2ObACCRQYexGAMZtfgo8hXkY9vY3023uuA8tFkj15EwOYcXeVs2qOuS1XWehAQ+itfBM+6oSmJkhBlqr/iCQsCisLDcsJutbiZSxdHC5TEJi+wI8cQKdH/HQxeTNk1XMNb3S9xh+A7c5FU2rK3Oh3b6/TrqXqEG/wxp9PB6E7YXJC+TTUEthsgsGeb2fhac2TuaqocAggn6JC9d2TAlsFI4I3AI0kwTc3zfoXbDlNTzX5CqatLNWydh5ejU3rj211dZKwJx2nL5NhoRgRPb+N2p8wkNhaYJiIwVrfrPU7Y/eFUdITHTE7odYvdXl00Aco/PPH818=
+       properties :
+        x : 10
+        y : 165
+        width : 126
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Prénom
+       identifier : 0x284d0422c0750cd1
+       internal_properties : CAAAAAgAAABtBceH8ai7IRc5rUAn5u6gnUgM33++vCRy1vzOw9wzpxyVIzKPAjZXRovZPPP3HiMgVIfvUVh1QbQUUWKfiUR95tvXduIGddwJL+3GyvzQhzGyc/gam+TdQ0KSsgDEU+08Ok3wzlGeM8DFY23G9aQU8kTB1EGJutJjVWwPVEScXGCEfMsBYwzzW42csrFUbF9PnFFsHMNSufYFtGKhzcfUyXxRR2LgqYDwRnUQCpWdZ+8va1lNUDWMPuRHJafuK+R4p10P6Q/DI3jybLUMgVE6SkVRc2lXFkp1N0CMNDm9Phda0PrY7HeMEEPKJOF+9Abrgg+AsUmXoSK/jFGydJJGZCDGn190f2rzLORAAkJKEZo4oKlUTkne7xMBO3CwimF3jV+DWszWfJbN9v7eQTTCPwbXmk0DsJ3y/ha5whW8JzYQWM/CKxGqR0n/Pdu+Og9jLNsuvvSNDqgZL/2XJekSsCMv2CWhhv3bwrAIpvoCwQ==
+       properties :
+        x : 10
+        y : 146
+        width : 126
+        height : 15
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_IDContact
+       identifier : 0x284d1e865dda1d28
+       internal_properties : CAAAAAgAAAD+DEhHBcdyNV8Az1y4RyT0Ep76BQFNGluoxyvqcguV+lhc2KCDcobfrf4HfcU3sabfUEfEvsjONjGUvldoPmWKJ24ppga0VBuOYGEwNb4i3SOUInJdHSyOuIFGd1VD9ZMPGAEUD6ECCd0MriZF3YGq+dHWKoTL6ldy50p7QXL5pjj0ueMZsG/KcX/Z+eLDMvvp3aQeKgmXqiziOEDduXzM0ipvpNfyrJf9K7Ft9jWZhyy5OYBEnvrcqg9PkFcW2QTBp5+3Sbahj+bWAJuUGGfaz0XLZSTgmTBSzr4j9eJxQ+9GAUqEw4TEfgCdNBTSAH+ECDt70Lli3Mwg4dW68fLL5lyMNns8BQ6FQJUqVlK+XlDkaNoboAEmhSyXUVPsBKTiDDsAuOVb/UswsPxQFBr7snmybIPwQQBtKTVL8O8S9gX6jFV5q7LYdM8od8VcksrPsvnDHlWiQhibROgQfntR0xZDidptkZsX/neFhpvZX3Q5YQZxCikIgMUiE1VC
+       properties :
+        x : 113
+        y : 6
+        width : 25
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    columns :
+     -
+       name : ATT_NOM
+       identifier : 0x284cfed955fd62f6
+       internal_properties : CAAAAAgAAABWb4/ZvZNaipkri58LJt2vGdjNR6aBeId5XmjzZN25H+jA37Z4Z3v1df2ibGxst8ikAUZQ3oRo8aFF3W3acXAv9QbU5FmMw0h/GtaIDCRzG9ZFxtiJASZoeQnuRlwXNjAwby3C6D5/Y64Nb4l+sh0bjMRajjhMYiZhT5h3vsqyBzutc/JSsQk/jZ0yRDsJSnXeYR3Tv+qcAVT8
+       type : 3
+       content :
+        identifier : 0x2543d3ef07818260
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_PRENOM
+       identifier : 0x284d03f2b64850c4
+       internal_properties : CAAAAAgAAADyU4Fw6DU0h1iTTcjlMxEqJIkpL52myQ5/o8MzSAvc4H7MmMHEFUh5ztMDg1ZpcAQzA9UiAz7yjKq2eUjMO/r7c4Jp3b42h3lIeAUXMCBREKWL+9N56ubyU9fW9/YO2Qv1aDcWvz4RUUGVaWyn2TugMy0qmzx4LXXecou/MOsMV81Q2iTs/wrH6jiCNYHpnf44YLiPXrEt8TicPL/dDlpwtb2x
+       type : 3
+       content :
+        identifier : 0x2543d3ef07838260
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_PHOTO
+       identifier : 0x284cfed955ff62f6
+       internal_properties : CAAAAAgAAADoSLmTQXrJb/zwbEBzEjdd1E5LUe+/5UQJ8MopeyxBswQUlWbHJgCJMz0xELzgwPD9zw0E2dIzl5TEWX+4j8/Jq5da2N5Stazhow8aJZE+dvS6nKWmbFjVrXm141EW+goycvWL+AzMVgXuBB0bfqMTM+xUIamreMQUemGCxhZ1m5YI7BXyNuniyjbA5gGGZTPTBACwbgu44jTYcgNLl/xrnVk=
+       type : 3
+       content :
+        identifier : 0x2543d3ef07858260
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_EMAIL
+       identifier : 0x284cfed9560162f6
+       internal_properties : CAAAAAgAAAA1qzOJL4/g9WW2a/brb4FabJJt0PV7tHGhB98BMgkxxO2ikYBbpKNytcAtNzLYlXFSiVsEv+uPA6wPy+Qop4gLm9ebpdouL3ugsC1c7bPghRTqonq9SH0JV6bfEQgazopEyi1c+kHqtMi19a9xNq5wi04fi79uir4w67QvERwrGAcKxVrNyl+6R82L/uuie0NdVp/RD5d/hZot+IbU/w==
+       type : 3
+       content :
+        identifier : 0x2543d3ef07878260
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_IDCONTACT
+       identifier : 0x284d0326a5b63358
+       internal_properties : CAAAAAgAAABq7eWOaWe3hAgM9Ccq8CHoMpXgs6k8EwHtOZrmMg1FsyE37BjgVspJRxMvtpk6xhESIrBK5SeJZcFH7IMIq3lOciMf9rkeKcPDmbnZyq7Y9thmilOFxTyVENy+ni8TqYnTgW/ek38xeC7kFz7fRdYXIN0vTjtk9AEInB75xM2ddnqCHZm2zEMbMiJ183NQNxNBvP85Vj9ucYUFTw3KIzwkORH3ymEkbw==
+       type : 3
+       content :
+        identifier : 0x2543d3ef07898260
+        internal_properties : CAAAAAgAAAA+ydwH69gPtZH9qoG8K7G6DH/mRhLAsIA4PXnwyQx9MV8BNs7UzvWB7NTCuEJWvBmA5CdsnUFWw3dCUBfdsaykjF1uve6LPYfwNBNWYEJulQmozEPUgRf5BggPT0njovHi1TUZ3dMWVWJDzVO7BYEECF/l1PEjm665bwXVv4LK4oa6xdFXhLX48q7GZuO+5fIY2l9pbbTIT9LWlT6k
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     type_code : 42
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAA/cX+kEAeO1EcyEnrtFe5eo3Dhw4hQ3iK9gZX5ILIWRLitkFSZmGO50C/ugLuCLk9AN4SN00PRoxmkN2wYa497aodYFmc7E4e8hH8X4EoaWfzgUjaSXY+0ymTQXZq+mrRSvXffa0d7+Jmuuw3hMp/DNRswtFQWBwVnSaw+W3KI
+        code : |1-
+         //***********************************************************************
+         //
+         //La zone répétée des contacts bénéficient de nombreuses fonctionnalités automatiques des applications WINDEV : 
+         // - le clic droit avec l'export vers Excel, Word, XML,
+         // - l'impression par clic droit
+         //et plein d'autres encore que vous découvrirez
+         
+         //Et pour cela, comme vous pouvez le constater, aucun code n'est nécessaire ! 
+         
+         //Egalement, avec WINDEV, il est possible de définir de nombreuses fonctionnalités supplémentaires pour les zones répétées, en 1 clic.
+         //Il suffit de cocher les options souhaitées dans la description de la zone répétée
+         //Par exemple sur cette zone répétée, le double-clic exécutera le code de clic du bouton "Modifier"
+         //Ceci a été défini dans l'onglet "IHM" de la description de la zone répétée
+         //
+         //***********************************************************************
+         
+         
+         
+         //Le mot-clé 'MaSource', utilisé ci-dessous, permet de manipuler la source de données, ici la requête, associée à la zone répétée.
+         //La requête associée à la ZR a été définie dans la description de la zone répétée, onglet "Contenu".
+         //Cette requête est la source de remplissage de la ZR.
+         
+         //=>Si l'utilisateur n'a pas saisi de critère de recherche,
+         
+         SI SAI_Recherche = "" ALORS 
+         	//on ignore toutes les conditions de la requête qui utilise le paramètre 'pRecherche' 
+         MaSource.pRecherche = Null
+         SINON
+         	//Sinon on effectue la recherche des contacts qui respectent le critère de recherche
+         	MaSource.pRecherche = SAI_Recherche
+         FIN
+        type : 14
+      -
+        code : |1-
+         
+        type : 35
+      -
+        code : |1+
+         
+         // Affiche une photo par défaut si le contact n'a pas de photo
+         si MaSource.Photo = "" alors ATT_PHOTO = IMG_Défaut
+        type : 21
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAAAzz9udKQc4JfN8OWcwTKptUoy+dHcNLIWBrpx+Op1jodQBESHgr43TEj2y35GYbQzn+62L6Fmm2xiVFeKzizOMv6ODZ2a92+2bhFzdFxGg99X6rx0XXUPmT4DZZ82ZsBrD71D6JI2tkDwG1J+yQ5H10A+FW73wFWmsxZ9mc5y8vw==
+        code : |1-
+         
+         // Affiche le contact sélectionné
+         IMG_ContactSélectionné 	= att_photo
+         LIB_NomPrénomContact	= att_nom + [" "] + att_prenom
+         
+         // Vérifie si le contact possède une adresse email
+         si masource.Email = "" alors
+         	// Pas d'email : on ne peut pas envoyer d'email à ce contact
+         	BTN_Email..etat = Grisé
+         FIN
+        type : 33
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : SAI_Recherche
+    identifier : 0x284cff795bc8d5ab
+    internal_properties : CAAAAAgAAABzux1hDj/rfuq/Qwf7QXqpgSh8OYcefjDacRJZzwiEzfVGVrVrdsp+542REkj6KRaSwAY7Txi15HnBM5CLSvNEy5uymUZO0InMGA+O7xVvT55NeHjnwsgx5s2kGdG9G9ksF0OA6anaQJrrC1hnGaQUjMQYIzbjHWgryO++6mIrj4GrdVP3j0HgapoHYWAh0j/u7h6GUVSBPX85uNIqOesWtJy9Lz4oRaMkeu5fg9HWesTuY9l2T3bdUZP+0a0jTkYMsyBGlpxhrIj8hxH2zE+BPfOz+p5Vt1MVesrKUHH+HGX06cEpbnr1eR9i13ilEA0saPlhGRNxRXj1CyZ/VxKAO8yjwERxnr+VUwFNwltECY5QYoMduE/OlxNJNzrWwalWqcY8okmYEnPjff5xdXASEyEicdpheOrCnDHTRetHDHHj6xX+/rDfhm8dr8SNdN7qbUzBWGvaZrLjGHf59llueV1J8Lnkcz8bPsXlwmnf/eskVfkRgJvQZ5T1T73oNBF72E0+m06dbjCWEx/hgw7BSQfz7R14mdrVMKHlHpD65hzdypwhRbgFTJIQI9UO7eZBxuX4e4em+yjHCrSsVJ25H6filD/XxwTlBPRmasotYSQiuH99vjR32iasHYYEmjgCUDKJlpVsbvCVTum02cg2/CI3MgtyjowKz5Rpq+OT61G2sh2Wie5u3txu4nkuZrM2I33ZeZ4QvhwECSkKwrd6p9p1r10Y0egoF34rcWIJyUG3uL75dL/4WymiSdLTXbKd7A1IgcbMCOj31pz2Ofbf2sdFCMF5BlMYvPvXzqjoCI57FedP7+3tDJYkhWe34I+h3Z0Dvvk095jDlfasxWMWg2mmxeC8scNkAhBxeuxFX4lGPoFrk3mTf2IONZ/ARHc/uGZy0JNz/uHia7ZXRVrwE/nIwLrK25+dR1ApE9l7nCqAV2sawH5FVdGLpK8JJcVeDhnaco3hjSyXmo51h431lj0EVyrfxggYn7wO9I2HEKg3qb4/nxkvj7ZBQeMoGVhMyPnANA==
+    properties :
+     x : 816
+     y : 43
+     width : 240
+     height : 32
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1+
+         
+         //L'utilisateur a saisi un critère de recherche => on réinitialise l'affichage de la zone répétée en prenant en compte ce critère
+         ZoneRépétéeAffiche(ZR_Contacts, taInit)
+        type : 17
+  -
+    name : BTN_Nouveau
+    identifier : 0x284d024494a7c328
+    internal_properties : CAAAAAgAAADf+HKeQW0MS+r4q8EM4grpihWXeziLLbXdDmnZ+D95326olgHxybie2290YoN+oG+edaWCkSOvjEuHh6Z+GM+p4mfA4zs3esXXkSUGvTjjOMY6I+oAD857J4rbO7xj/yrxMDNprmrTxyoMryw1Lp4OKLDpOAfHxt2HlxS528Q1kugRVla4ZB5wFgVbFddDnVjQhDQidCgZwaa65E2bl4ARwlcaBSxZP0glLsBjhlVamdyf1lpPJ2hLXPcBReW2M5y3DjP93JCcgp5zDps1X9X23enPljsI+GyI7PRJE2qLcIs7yer7nC3PvX0/jiY+f30aZ6gDaekDtSHVzTqabWAFxO2XESzjMG9Z1iC7eMyb4E/erF/+04mW3j0F/82pv5OZGBiOduVgLIsCrepgVyY+nZIwPpNi4+WzRn59RE+ydzxAS+1iZOqvkN7KgWb+QmByD4ZPlRGDmQ+foE/xLoWby78vsMMGrvSNdnr2ghyEXS1fW7kWBUKkrGxeL2qV30JJ9GU/kW7VTJoRhlNr/2LHFI5EfqijJ2xtU27R/ppKIldT8b12ZreOu0463NocX1D2/WDo0q7ewh9bFCXloDAEVzaeMbToc4NMC9iWEt4mjIm02VC4bYR4zNey0KLF1Z3g4MGUjwaI44vKmPkylSTPG/8FX3i5QJFO1uOH1jWxhkgQOX8sliFIPK9Igkq7A6q1tuoj8K704Wzi/5xip+EY5J048jxuf9eA9xB+P2SlzYrtUirrHO5oBVSroEyaB34wod2cFKtLAzscp5hfL60rzAWFSdkbAM951ZRvyCRyYf1xDgQXBp8XC029FpFddXxieQqE2UEqylJhQwe4ivOWbarDoeh9jHZozfzXX1k/MVDJ7Z7Pr/XJm8DYw68M9OENVQEnwJs=
+    properties :
+     x : 18
+     y : 125
+     width : 102
+     height : 27
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         //Ouverture de la fenêtre "Fiche Contact" pour création
+         ouvre(FEN_FicheContact)
+         
+         //Puis ré-affichage de la zone répétée pour visualiser le nouvel enregistrement
+         ZoneRépétéeAffiche(ZR_Contacts, taCourantEnreg)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_ContactSélectionné
+    identifier : 0x284d0703e5124a52
+    internal_properties : CAAAAAgAAADS+SXhr+AEgLXM00c/gUcizLaeAkAghE2/1wklOGlyj0W1MG+5CdsSUxw8vzFS+ZllVh4fxZJajtyMgxYKeYSRSMhcGHd4wBGI6QuyunO4Y8n7MoPzm466yw2XUUmuSknI4e8acEA/DUWu19etzkrusRmggAn+eEO4d40B7Noz/sqcSyxAxAToD+Fo8I/Tpeg5N9linmVJUi4MS+/8IDFQQPf0V6z0Z6fYGR3/NVouGqaL0j9LdMLdtPk53eRQTRJKfNZOG7nJ4+iVbHvby8Nk4VzZ6BS3MHO3OP1lXu70Se33JHIPBFIp70PZBoFyTwIehBPjnOjCJa5aakS7SiNCWA/nRVpC4OBPEpLV30EPjTsFJlWKjIuHE5JHcFy/lgI1/7CaN+AsCzIWTYDOE++wJu061wgcYWKUmZhtXo9zlfm++3CBMu9qSKLA8pvTTPSe4+b5daYtrdq7O0TFVPVpk/n3+GVoX8qYtOlAALRNbrk+ksbSKeYBGTKBAF89aijKZnEjsA8JxFnf9nfqwJIqcZISc9oTquKvt3vQdSTsIj+OWeU5hGc6SGE8Ue20X/D3WrfpuI/0CREU5E4vTDr5xQF12IKgzjEI2IVA86CNeblxEmIzcCiLK/dRnoJeCnkFZf33O3iAuIGSi1b4xoQM9Pn7DC8e6ILpiV16C0wJi6MHuU5tJZ3K6LHmZpmIdP5faSdvPTMlpEtOopAQ7/hBpyxA/8txCdenxGHkQqtJzIXG+kWdI5fDaTx9YGtkzrsKQAye8ALHaBJX870o7h78S/zjJJ2mXEgUhynpkw/J1stvHhkK+J55vcx8j5ebUQ3nvRzr9lKmn3tXFWp+WflXgiguaWSQ3X7cCirPEUUaDajDGUNiTSqSPrNL
+    properties :
+     x : 25
+     y : 569
+     width : 79
+     height : 79
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : LIB_NomPrénomContact
+    identifier : 0x284d0768eaecd47c
+    internal_properties : CAAAAAgAAADKyhbvYnwAL8aXnh2SmHAeliqE8rPVAJTzKFTGE+swwCuTfjcs8CbMXh/5TdTZi8Q1+OzJdxzMwMXjSuuEusS2/zzAwlUbuXSVhG4zgOB5u7ngfxz9rvx6k3kggUaAA24+8PFUL3u1BjfTw2IKCWMzsvtMsAON48fG9KlyRDxsmFlewmZ04JkTx2arUH9URCO5U0yfhIP31WU59Yp34NXvl1BfZLXDUbEFpq2qEPqQHy0WLt/NRdxiZFUcIraMlVCa4VTaaL6wXO5ub0lKXDFvMivtcsi1XnSkeKCcuKHXtNC9GpwwoAbg19Ysc7v4VA/gxoAU0WmqKJmJ9fCKMOuWROAtW0nfMH8gfbstzHg4au07B+kGuJ+wyjWg6jYZaqPEys+Dp5XOYXYBJvFrd5bJl1kbRjnv33Ymt2hLdM/+EnCP45y2qrf3vR4jsl4ZudOM85nkFdINQt8I/LNta5fK6X6thHioy+vVbQoQBHzNaMieygQXaW5TN0UWjQ==
+    properties :
+     x : 108
+     y : 562
+     width : 657
+     height : 28
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Quitter
+    identifier : 0x284d07dbf4df9798
+    internal_properties : CAAAAAgAAABsg6KkfqdD0E3QwGSDN6byQlUuOqvNIafayM+HfspmfdPokFn3gN04JxkyI2y7EwLEjrCm7uvaa67vSZabx4hX6X9W9vGHTKJ1g22UVs54PIT9rLjSDVtDPZp8c401mJ2QzCaTLtKTlgBGtScKRbCVfyWHxu5CNsOoq8hwB2SrcqtfRNlpc63Ao/P1gu4V63F4B7jlKn6NKXGm0+yDZx20LljONaj/PgorIi53QonjYq6d5G0fG/bN7sLFsJ9iPYvMhxz8akULv6GLrebqrn0Qws2OYaqrUaawbPuCEK+oxVHHdd1pleMBT+t//sMmUy/CHlh7oAyCgd9mZzlA2OVrsLb9usB+JJM3TpM5ULi+EcMpyX5N4nOn+2Z1TYj8LSI7w64JHGgTD2l+m11fCsj/twPPuLTxhmY28n8VF4LujmmYzSwYUukBDrrsdqP0XmtE/TQdnQ9NvyskB5Xpd4PcQOko8NmC9AhNBUlmEhmAWq350EM+KpP11FReq8++xyG1MMjQhSCIf9nsGXw0AYsd0q7HJluqS7raEvWEhEkRRHcNm8LTQCjNsvRENxmFMFdll4Jk7ssVaU2UCpCngdlbwG4N0SRx/j7Lg9ihYMHoKUKUGPGnMAliuqbZ7CggT+ZYnemFEE/NhvUHTlH9JUgsU86OhcyErLJNJ3uvf5SIbk2uCNunzaeHp+uWXchEAtRPQETa5ckuFC3bMU96aK3wD+XUeTXpt/liuiNHDq7W/tZSuNynAmGdcZAus+DLqpXTUQ1Yk4CG+y/0uDjrS7GSp5I+yST2MqxB4/TY6vNhHKouiIq2NSAKnvZze8U4ZlQ/tMsYYDIPy51ip1hd++nalEoxB2d8OQMqatF/6A9yvTcMsIVz0Z+g6LQwxlyt6yUhYjGkIMrDJMI=
+    properties :
+     x : 946
+     y : 609
+     width : 102
+     height : 34
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        code : |1+
+         //Ici, on a choisi de ne pas saisir de code, et d'utiliser directement une action prédéfinie pour le bouton
+         //Cette action se choisit dans la description du bouton, onglet "Général"
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Email
+    identifier : 0x284d0b68138072c6
+    internal_properties : CAAAAAgAAACC44LZeGHJXL9wbmcrVcvy4598e1yxTWuGDc/TRhKJCVEuge24MnqZ2wMZqmJFSV0r9uOCilC3RGM1QV6mhxB4wncV7BoDrgvnPfJ0Ys01nm0M2Q85wMM862zK8z14XPZwLYk5V3t2D8h0BiKGPJs/JQp3Hz3Nb8wRbPz0DYgw3DNyyY4RFVACzjCyS/Jgszvgwq7QVwz9SCTsirJMvoJMV17eXuVI1oOp4I026KXxv+wKr22Js1pZTGHn1PJpsbltlv/bUHJnOr/H9UH+x/ngY6kztpDcHbG0rbQop2pMbRpG4P/MWeCjgjwZVy3BPiYlfTxVrenoR4Io2yfJfUnzOoGbTt8AUVY84huNLR1StE3nvMtS0TpXmwb2wjLKcQrUZym0ls/sMddLqMnOBHlDbRGg8Z9ViJA9MAFb48OmueobmRvedOhBmjl/6Itgl89+g1VsTBCv/D7KgQ3GDDBcCFx/KQKQLxz4Vpy3dEfyh2DhBkyofA7O6c7lZYEZ+5qFUKrRVIy5DA5AOikZRL3igwbaKcyc5dDMcNkf1fy5INVh2uJdmFnHshpEw5je1ydL2EwdcorNOfrYf2mWM/rSly09PxBnrndxbz5dtac1ys7qrGEcscvtOYPcX9y2ySajermYOQTvsnaJWm4GG0Nf5JAsFx32Cnj8Lm9EE25LEg8uWd7q1lqT/ANSMXp7eSL4pD8E74Ux8vvLjDvmoP3hxn4yqjXjbCHBng0sZ2xy+egEdzMbxNQxtx27ySLHIEfzOmWhlQJMaOUlkNH0Y1j3N+hk+F6R7yVRRtDX1fpWGetzZCfx9NVkkCFMc0lqK3n3Cnq2V2Who/s/dWWnhpgIYco+Nh818tGmDYiiqUnYerK2DuGQzxHA40FOxG7rca7RkqRfjLges242Tbuw18JO5+2wU9HlE2QZFY4ThuFmnj8fKJM7T6lkerWO7vny9NuWKsrV4P9FFq1eHOVOF84cTqQUH11GrZUovQsGGzJh6byaeJEIUJFmqJLMy8lERe2ENtlY0xvJJEX3s4ypUnpDSgD46H2uOt/u3g+i67tDkYQ=
+    properties :
+     x : 316
+     y : 611
+     width : 150
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABBMwSPK5RFlpFqZyiMh2a/UUsOjAb35wtJcOtGaPWp6bt2+DhlglUhErnv9iwS6zzh3Hh0Bhopzd2EJ5gV27ebctqL3r7ji83n2QHP87WZabhSKwLHpj28N280r9S0BPcGEgb8uwn8JCqMveY=
+        code : |1+
+         // Teste si la zone répétée est vide ou non
+         SI ZR_Contacts..Occurrence = 0 ALORS RETOUR
+         
+         //Récupération des ID de tous les contacts sélectionnés dans la ZR
+         sListeIDContacts est une chaine  
+         sIDContact est une chaine
+         pour TOUTE LIGNE SELECTIONNEE DE ZR_Contacts
+         	sIDContact = ZR_Contacts.ATT_IDCONTACT
+         	sListeIDContacts = sListeIDContacts + [TAB] + sIDContact
+         FIN
+         
+         //Ouverture de la fenêtre d'envoi d'email en lui passant en paramètre les ID des contacts sélectionnés dans la zone répétée
+         ouvre(FEN_EnvoiEmail, sListeIDContacts)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Supprimer
+    identifier : 0x284d0b68138272d6
+    internal_properties : CAAAAAgAAAAHiqoQbKLoiulwTlvIYfw+R5y96+4Dn3RjLdMmATYXNDCOylSK0jxVctdfUIvDqZkNtHvgG7czfkOSkyvUs/WE9qJnXAVVDqwI8mKYOlZmPzd1XS5GkL63uAJ4AumzV01PAykRDYHc3wyw2tyCzXrF+DrV9iSAd1XcOcLwNv0j5rw+/f6ObP/aCJ4T+Sf+FWk5gcyK1EVPb4d5N/UHNRptBMeWIz5F7r3x5TYl7QzmuxsXNoEi/13a3KitjmTZylhiqyOph2gdlsVRUiGV+hqVtZNEa6KO3i0C89MpumIs27T4nF7nXSzXrjFBf7IK0k6cuz9ovCpyU82pPmrb+qEVt1FwJMfLwCtTTECNak9U0YKvdmKnV/f8h0Kxb+F70Ih4maR66pq2QIfaurwcaelSeqhZ2yhlNu/Zuc11jyESLmftl4q7B0bzF0ndgN3uor6rHKv8QPP7HW/n8fbWqBvgyLqtH4VoOEphbSOyRNqs18ZU24TXFni/bZXNfiYgmv9AgsXMWFaAuGzEFvpEpggZzcmHoVLGPAndSK+o/d2P85xsSflUJG9dwkDBnqaEiY0u+gnfoWq3x338mVFjzBvseCxnXsKc/Cldt9CbdsjXQjfNXrUqVqSMRjazZO36LJLPW8m7yetRLiuRdLVoQjNIG8/Y42AZFfzcYOb7qwUq3aSflYXA2deflJdlibTcVuySLk72UYC2NObZw9924EjGPH6o3EXPBwd2zHpnWKIIOvO27KV1fJannTkMhFGecxcH0JPjMP89mVGfsAP2t0gxj+KB1roWNtfL1KN+VAQWa5UY6gSGJfwbaxplAGgkybNjlzAtbAx+yXi0PYJFGgGJJrCjvEEDhQTv40mkDZI5Son/e1FWP8HgHA647ChJkqy1Pa7Zc6j7qMMQZeufSfuOikqABvA6yQGZQm4XNWl+jwwiisUdcyNtXvzpmOw2iv6rfOqZQjgSBUggsLqZ3oZa+w==
+    properties :
+     x : 208
+     y : 611
+     width : 102
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Teste si la zone répétée est vide ou non
+         SI ZR_Contacts..Occurrence = 0 ALORS RETOUR
+         
+         //Il peut y avoir plusieurs contacts sélectionnés
+         //=> on parcourt tous les contacts sélectionnés et pour chacun d'eux on demande à l'utilisateur une confirmation de suppression
+         pour TOUTE LIGNE SELECTIONNEE DE ZR_Contacts
+         	
+         	//1 : &Supprimer
+         	//2 : &Ne pas supprimer
+         	SELON Dialogue(<§?18495EC201DA01E2§>, ZR_Contacts.ATT_Nom + " " + ZR_Contacts.ATT_Prénom )
+         	
+         		// &Supprimer
+         		CAS 1 :
+         			//On se positionne dans le fichier sur le bon contact à supprimer : celui sélectionné dans la zone répétée
+         			HLitRecherchePremier(Contact,IDContact,ZR_Contacts.ATT_IDCONTACT)
+         			//On supprime le contact sélectionné
+         			HSupprime(Contact)
+         					
+         		// &Ne pas supprimer
+         		CAS 2 :
+         			
+         	FIN
+         		
+         FIN
+         
+         //On ré-affiche la zone répétée sans les contacts supprimés
+         ZoneRépétéeAffiche(ZR_Contacts,taInit)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Modifier
+    identifier : 0x284d0b68138472e6
+    internal_properties : CAAAAAgAAADm2P2pjjTv/emh3cNo8yUM03g9EKdaNE75ALByeu/ffwNM+UJZEmK88siEAG22LTtrDb6wvaDpLaTVofE0Z3U/l1BFXZgQ3vhY9VG2TOnGulniOUN1Yn7uH5gGBKjmQsS2U4jGb4k9mombJg/vCtIwfijKN93CCrOL0oyt0urK/FXzQJWkCoEuxT/BVePlsIDps9bj+z6M/HOEI2Ki3Pl0nuOsNgDzDgmR50Rz4votUYAS1He6cruX3PNFUS8LJv66cuglMRtAi0dgndCeXpXZFz9naTZBOwDMsraW7Upx3HJHckBQHUxG06Fsvs2UHFejGbrFe/Klxl8LYeih3GbKOkUUNTbalfQgRUS5QEKfUZoVSiscCOcYD8c1f+TBzR94Yfi+m8qIEb06bQGqDh1PQeZihEcimDA+UkP/sqvEAMFdEFZt710xr1OagjoHfrVPimtB3P1pwdqgrjK9t6XmF3DRwOjeCwo1oQ+So7/+hRIX5UeZ7NqaR9Qrf766ovyluWAx1iE6JyzN4IxrYgRzzsdFNLl/gkejc0TEy8JQAUaHVi66LkWn9klil8WXugHNyaJ9T88zKMXBoGTHFhD1JJIwBZOlu1j7FjNKMt6Jz6evc78huNVLyJUA16RqVsVl24ZEjkNhluW0+bMZRl36e96xNRpRf9lARK0MYQ/aGtBzucAcdOO1AZM7cCbbsPmNJIgJ30pAHxs42aey3WvYiX1Ti6LYXCLWWae2M9yiMHomWZowfcRAj/dn+GB4aoF0oAublT7JeO/aFani9aLntHJ3c64rKpewPG3SSjejnA/+6DUslQAIXhByPmr1/fxut57803ShCa6Z3NO6bxJxgeWvIby1vfwbjudCiBK3JMhnPhHvyWQrVUKmaUL45KI/KmINpQW9Rl1y0JuKsLwbrbLOp6sG394z1UT09c2ghS4JQnkUmf9WB1yH0JPW4Jkplf6VpFUu1BHW4VGedJecS4bGh78=
+    properties :
+     x : 108
+     y : 611
+     width : 94
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Teste si la zone répétée est vide ou non
+         SI ZR_Contacts..Occurrence = 0 ALORS RETOUR
+         
+         //On ne peut modifier qu'un seul contact à la fois 
+         nIndiceSelection1 est un entier
+         
+         //Si plusieurs contacts sont sélectionnés
+         si ZoneRépétéeSelectOccurrence( ZR_Contacts) > 1 alors
+         	//On récupère le 1er sélectionné 
+         	 nIndiceSelection1 = ZoneRépétéeSelect(ZR_Contacts,1)
+         	//On dé-sélectionne tout
+         	ZoneRépétéeSelectMoins(ZR_Contacts)
+         	
+         	//et on ne re-sélectionne que le 1er
+         	ZoneRépétéeSelectPlus(ZR_Contacts, nIndiceSelection1)
+         FIN
+         
+         //Ouverture de la fenêtre "Fiche Contact" en passant en paramètre l'identifiant du contact à modifier
+         ouvre(FEN_FicheContact, ZR_Contacts.ATT_IDContact)
+         
+         //Puis ré-affichage de la zone répétée pour visualiser les modifications effectuées sur le contact
+         ZoneRépétéeAffiche(ZR_Contacts, taCourantEnreg)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SynchroOutlook
+    identifier : 0x284d1b9c2463bd79
+    internal_properties : CAAAAAgAAAAwwbTSEU6qdTItWSILBRVk/KeDOp+JupVE7KQ29NSEn1fx575CDPdgd2Buv7PCaRpMuXQFe+nSEQXjdkIwUo8b4t0yl0XfYSEXkBGJUBH8qEzI3B+1RutayNV86rUF2WOXJUjXN7GXwez94oxenL6nt5XwTErI2cdsgaJjGO2dFBiEM/rQU23jd8MWUrHK/66xaX0VmZWNgoTPfpbSGjI7DlITq3FFOL45pLx3MN52scj2dKVVjN+AaI1Ivj83KDcwDXGIx3Rn3S03fHgTJRTRO59QZAFTrh/Vtv4jW9hnrXZwEbj3qGu+C6gKB9dpOwuWax/c7MFr1T7XPdfRSQUZZPkjioUhnkl69KoWvpdTqVvurLjDicNLZnQZC4cQUF+lkfjaIlBBtAa3ClNxgy0NnA6GIQfDj+okoly3r2Y0ZpyuHnPhXH8pwpFmjwEx9/uhGHFgMVQvliKPXLF+Gf08aM9iQLZJbdlVUXkQdoEXkXTI39rrXeZce425Xtg714B3F/0Sxz4baDUYZ2tTmpdplsaIrS5ypdb7TMCJ0q4A/HN3iLTBHKAmhoXk719brbXA2EM8F2QFdV3bwRHNUcJiDeWxYsz0jginTxVO0BdtRJoqF3KLFYZLe0/WC465/rcI+ydEHb9AH8mohp2LNMjYWnzJ2+yY/szOiae/PT2FpgP0BFAkOZjwzKSp1vY6W+06OeeYG2jfdHsruXP2HMkJ5Dvmk1zUWVEPS1vZtrtLE5bfEc4aj404MD455nGn9+2/vtymJb44D9T6eZfqrsBDGA6M0BpwRZ045M1o1pdyAx162EGlKg3t7u3Wlh/3L/UF2yw8EFdyZ/WoFy+cmzVzygqNBa/D3rdGCT+0CmxtRh+gUH6iiB4VOlsBQJDNPYxfzOpPbH3gbIr0i4uLZFPWtEa3qxpTd9f8aTw5XBZF378MGiNEHNk5fe20AKGEwH6BYl7IJxYEfHPOLZP0ArPN/PU1/a7qaiy26wNOUfyA1cloeVbvtA==
+    properties :
+     x : 356
+     y : 120
+     width : 194
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADIN/yAITWO6CMuc9aS58Svq5gJdSxVLBaBm78jPbc2l8/ovPmdRYcPbjrLUcUCd2RneAcnuxnp4ON8fimDHEevRI/2I9aKZ/xZNS6cuQydMaphYLlBiflH28m76mB7YsWeRVfLcsl8E/gROQ==
+        code : |1-
+         //WINDEV est totalement ouvert, en effet il dispose en standard de fonctions permettant de manipuler en lecture et en écriture
+         //les données de Outlook, Lotus Notes, LDAP, les API, le Bluetooth, les liaisons série, etc.
+         
+         // En mode Linux, pas accès : il faut griser le bouton
+         si enmodelinux() ALORS
+         	moimeme..etat = grise
+         FIN
+        type : 14
+      -
+        internal_properties : CAAAAAgAAAAO3401BPPel7yF5PrCzRISqex0ap1hLKnbeFw3YWIykdd3Snfy8tEnA+maRdgNhhCVCesVJ1UlFibqeIZUIbfRjRasS5xq/HnkFS9vXnoTFE2QpGY1t06bXa59pcdKRGn888P0VwKrjB3HNydSWR5T31vk+Sc+wfH+kMOyFE9909wDqLzbdvwt23NOMpvLRSag8f+Ey5mbqYbJ8G6hQABlg+1bHcGcovy9ovAl0E9IMmPIlf68aVPyFv+faWjczN44dUdWn1HJiDOeWTefmyrh5k2I/sTVF/Vi0cGZ0i7qNTLUOhDmKFOC91100phyZ4Bt+kplpP3MOfYYM0oYkwcVCA==
+        code : |1+
+         
+         //Traitement automatique de la gestion des erreurs défini dans le bandeau de l'éditeur de code :
+         //si erreur : afficher l'erreur et retourner en saisie dans la fenêtre courante
+         //Il n'y a donc pas besoin de code pour gérer les erreurs dans ce traitement
+         
+         
+         <SI CibleExécution=ApplicationWindows>
+         	
+         	//1 : &Importer
+         	//2 : &Ne pas importer
+         	SELON Dialogue(<§?184961A4043645C4§>, esp)
+         	
+         		// &Importer
+         		CAS 1 : 
+         			Info("Les contacts Outlook n'ayant ni nom ni société ne seront pas ajoutés à l'application.")
+         			
+         			//On synchronise les contacts
+         			SynchroniseContactsOutlook()
+         			
+         			//On veut voir tous les contacts résultant de la synchronisation			//=> on réinitialise le champ de recherche rapide
+         			SAI_Recherche = "" 
+         			//et on réinitialise l'affichage de la zone répétée 
+         			ZoneRépétéeAffiche(ZR_Contacts, taInit)
+         			
+         		// &Ne pas importer
+         		CAS 2 :
+         			
+         	FIN
+         	
+         <FIN>
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_Pointillés
+    identifier : 0x284d1f506f5f3238
+    internal_properties : CAAAAAgAAABpf3QqVqTYnheSTM7fkMIwA7TjUvowCVoafhMkMR3PXwllkcQ6qHmfDSIDmozbIvi7LJ52w+tOrCn3/60mdEnqey9asPLuJbniIcqJQICSfQ5cat6uzqhY55g8ZjgnNDIRXCDwpnd+dG5WEwOf95XXW3kkjjDts7GP+jZkjx1fyBO6Vo3aln9zx6oeNkQYDpcv6ygKA6L4MMScu6bnNEVXLKIbzYFxEUtWHx5VLaLbQjBoMZhCjA6G6i5kC9qWFe4q63KMIxD0gJy5oPoFiVnc2zAfAOZtYcp/ptGFFwsIazT7coYnnH4HdE5FyeuYpk0ShLgBxoALR3bpHRdLVZxmrT6uKxAmBMJG1qx7CiOoUO+zltHdsqyCYQj9YynseL5drcmQJ7TxgWPnH/F/XJO+yfYo8wJhih0KB6hSLisMPht+GnCDZn4SaDvIucWRMSfPqYWlZbTi+KWEOXc6eerOBBDNbLfB8ufdyKnPvjVmA2ZhzUQkagujkI9U/uUsOQKKfNMtygncyaCOQDH/ljSH712L4iJCz2umKr1ZLdJwKv/x6HF7xQYr1W/N1rJeBLyWPX+9yTB4kIgY/5IyYFiqoOUdfQl1QgCzFj2O0ZjpjqpnBXlfcVjsVWJAsMq3HG1J9Eh5rkQ2k89i1nMsjgb+HJUQ4VC6G3ia9fVGOW3+7X6ZIKO+UA8AjsF4GsGp7dk2L9nH7mq8nyTBboLM+ZXzg7tDYbnjNdbGiG6d/AsAA3RX+4VeB6z8czHlK2UuIawM3/Y+UI57QajWBfjNpklaaDB93l3twP7foteQvC/96yle3vCeoCQiyEqAnUBdmQCnacmyUVcSpiMJJ1XHyVBOi4dAAenfdBXsiK0m
+    properties :
+     x : 19
+     y : 563
+     width : 1042
+     height : 92
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_Imprimer
+    identifier : 0x284d1fe579607988
+    internal_properties : CAAAAAgAAAB29fofWS03WdreD3/7XOw7ol45NANDUQhxUBaNLXmVfBC3/WBGKnKqNI7E4+sJvTTzK6khkdV44JALRbDsFknofOWPQESl28H1jRwM2xvhfMabzbkg9fhjorhtqMJBw92Gu7zFVAvai0dCfn9EXgyoE+ztOf6EESgd2RgZgghaldij7D4jkPokp3Xk6dzvz0zqoadjH5anvKE2fg9bamtqoU7v7h8T2WV+mMPIZ8cszbbUA26+ByxBSq/X7pEpnd739Or1t/p7GEwlLmBS4eCAMmpdXlMsPtGC/uXG1ySJ3AYi6aQ9/BbgEIwtBzT7xha3oyVoMiTUswz5nrSi0E8Knyh7KqTxhVjWlTlrlBGvmSVNb/tZj3N5HKGrNdb7wqKyWToSpbMi94EzgFOej+WnpyuDNJT018ebwYlbdYZl6MrXKRZ9jC1jt6/meGyrrTUHUxImFpPw3uAg9kSQaDve5mAmJUXFj3K/oKtQJI3pHNIqGYAPmw24slS1cbiXj2Wc0OSw033YabA88+ApfnPGG0KYKQ5GztWGohazc3g3kJbiRtZ84C7ujvm4HOEmpmAIo1loPwFtOHZE+TK1WdgaY+z22+GDBttsz0OlkGuPri8OXY3mosH3VwCOunqC7DtFvYKf7wxpZPAxgOnXhGf3aEn2KvRhiVy/qmXkE5bC3JTlQnIJouF5d3n8H4OnHSKP6kqFjwsLJLpyMo6h4v/Si2A23RtVZWeeCqKOZr6NBI/jZ4IIKLbnqJuXjDuN9RhYo0XqVAB4pmHLW4Fojx7BUK35cXEILPu/okEfWYeYKUkdyrI236iu7gDI2osDXrFK1XigmevryVFb7rov1ExXIsc0v4GSkEd4fsBrKeRgRd4xB4flFGTiQGrURhfwJtSgFFio9RiCu0Ft3bWPgVmGh+v0eIXjefw=
+    properties :
+     x : 246
+     y : 125
+     width : 102
+     height : 27
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABdFwiDU9if8tXmY4wQO17ftefmEP7L39dF9O/yDFHJmedSUKRlHv0ttoXj6uDOw2TFCGio5n7Haz/GJUbf4Z21fICJ9HB5GWvBo/cNPcuHGwpwyeipfMPCMUECvcYikkEQaGw6RckcKC6Aofo=
+        code : |1+
+         // Teste si la zone répétée est vide ou non
+         SI ZR_Contacts..Occurrence = 0 ALORS RETOUR
+         
+         
+         
+         <SI CibleExécution=ApplicationWindows>
+         	
+         	// Imprime l'état dans la fenêtre d'aperçu
+         	iAperçu(iPage)
+         	iImprimeEtat(ETAT_Contacts)
+         	
+         <SINON SI CibleExécution=ApplicationLinux32>
+         	// Définit le nom du PDF destination
+         	sFichierPDF est une chaine = frepexe() +["/"]+ <§$0002§>
+         	// Définit la destination
+         	iDestination(iPDFGénérique,sFichierPDF)
+         	// Imprime l'état
+         	iImprimeEtat(ETAT_Contacts)
+         	// Message d'information
+         	Info(ChaîneConstruit(<§$0005§>,sFichierPDF))
+         <FIN>
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Etiquettes
+    identifier : 0x284d202f7d6a9a4a
+    internal_properties : CAAAAAgAAAAQ9Y4jTmAjxq4VbBZFAJf4UMXr3d+UQyAaVxD2vKZqLGiiDpBePSg5BuuL8Ze9kKz8b0Ax+YHahIWmur1oNw8Jyj/8BCjdJy879Z+0FBJsCjulVEVFPc2eQ/j88z+z/k+wR0sMsrklab+SXyO+xUO8wSX+RLlbMqQDdGOAdRqx9KZM4z7OM7aPqH2UOe4NsHl0P6MEVVbhhmBcstJ2F5TuAcV5x0K/k6xnxyUhyJL6Ih0fMWMaSM7Lz32w2QHc6TMjunsDHM+fqTJgbfH92MfOmEDXO9CjUzSDlHQwMKWzdsH3zuih7RnjxvWV7TktlO6COggpHkU4FK05vQplt87Z3OVVISlEdbPXW9qXlYRwM0I4u5tvzxCvZXJIsvgStTsSWybUrKgrFvqt9ERNW7aggWZ7twKFyJq4s5aMoUNKqijwJfeSY29NPZsZGXpFMB+AwMKATIuCuz7p9BZZGOqzeUerTCifHEoeotH+iz7dniq4ExDculub6YNPBvI6BPijAAzH5LrGA45G/QFMaIuF7DVVlxJe1lAgB0dKPvywpknSHnYCQzIXGyeYdOMyfMubk9DwI7gM1DLXlxDObtkhniKCDdFoSw/vDdX752DxG1RkYQjVmWS0151fpTOnBpZp2I3YerIgv676VzoXJ5HjOcFUFkrJuxUg72auVQPMxBo8AW9NNemEAxGpP4V7u5DuVU5ShZUviRRKjaEhe2JIPe7eQk8AFYb0yw9FlPAVmtI+mCMFf3igp7v3cMJPTiirKylvKhZ6KHV+f33qzic+00qWPtu/7Dr1pIJyIlLvSNJH43RTM6Qnj52aYB0S0KOTkGdkys/IyGsK4AaFb4WvX0rIrijSSUs4ze4glwYPh5C4tFIw/WGMD60QVfLI6XQ/1F338btMepU131UUGCelV5K4GhDNhISW234QBvlAEI+7QeDyLzT1b+U76Z7+7ixtFe1kEdH5k9J6
+    properties :
+     x : 126
+     y : 125
+     width : 112
+     height : 27
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // En mode Linux, il ne faut pas proposer l'option "état avec code barre"
+         si enmodelinux() alors 
+         	Menu_choixetat.OPT_Avec_photo_et_code_barres..etat = grise
+         FIN
+         
+         //Ouverture d'un menu contextuel pour choisir l'état étiquettes à imprimer
+         OuvreMenuContextuel(MENU_ChoixEtat)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Imprimante
+    identifier : 0x284f93cb45f598dd
+    internal_properties : CAAAAAgAAACh4qu++R4/um4OZOUj2AHn8WdgdEbsERf86Lc9v+FLfgBkJLWzy54x1xnvouIEyBvBRmGyz48h9magXLzpNzRfZBc8T1Vbjj/yXpvhO3Nwv/RA53cr0NqTUw39gk/ovN/AOQj18mJjgENGIVQPELC3YayePjnwZfFJckt2Mw37qcz/lXsGytbJxAqjz0s0ZtNIQPACEY45Jv0O93Di4J/OUn59dGEfNISUohhKeBjc0s/DJTQUZHlGgH5jnuWWAaM6yHcXg7oiApaXwk5+8LiJ6RBcW0UqnZKeku9qsyz7sr0LS1Q9rfR/vh+7hoog/lJZIfO4zdD8NcmDcvRaq5NWm3QkZqJU5OrkUwur9rxsG44AXoQg992fC4lsWSRhT2S527JRk+RaPtEE9/LBhpJlvihdXctONix1qFr0Dr1yLeHWlKC5DUOvHCeK2sQsUOOcPEmnosxNncW/bU1ulm/hphnPnUceJqHAt/I/RV+pnXI+3V9iTqiHiIhB0ifqlF8vQ25WprT4eSzTNkRZ+pw5Jk6beGoWiuyLmnLf/l9WFjCgi3ca1bAzh52Zo5E759wi5T27VLASPvZLr4PF6/63quyo2ryiMtKRco4UiqniBwvz1kcHxWSiT99CcqhmFXOdAM92/DDtGvQeMb9vKFqiA+FSO+QrilHnY4/y453+TD7e7aVf+X4Hqc6zSauHWfEzZpJQzF7GtXSY7l0JCnvyKl4Lg9H0hNNb8GzMS6M8ibuqoJFHiaoLUQecj5HoZcsDt7cy3jD9IsmKLvso+DNoVVCsF3ttw7ERMszDv6LLbc59LYrLpfzkSxoMDeVby/i3N/q8s6lceFpa2L1+5aaGjq/ILZCQF2otiEgg1brh41SQ
+    properties :
+     x : 942
+     y : 6
+     width : 62
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Grise le bouton sous Linux
+         si enmodelinux() alors moimeme..etat = grise
+        type : 14
+      -
+        code : |1+
+         
+         
+         
+         <SI CibleExécution=ApplicationWindows>
+         	
+         	// Configure l'imprimante
+         	iConfigure()
+         	
+         <FIN>
+         
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_ParamétrageEmail
+    identifier : 0x284f94dd4877c7ba
+    internal_properties : CAAAAAgAAAB8OI94iK/0Cx1bCPu+Sp/ZBOsuVXfiVzptLyLeXwJ249G+i8krGFIYvwsI9uVNa/xWTXhG7Au03PPsaLHjDVPXRXAvv99hqOhmCmQOcykgWAK9Yh9YH/MwzX7hsab1n3TcV7vl6+0DPr+k8P8pmo2rUdAR+lq7MRDJdoIYBQ8HKDFqtuweotzqIpAOzr6qdjK43d4dcNxSWkwyh5LvG4Qjlg/mwfaFsEWfCpdgI7+/KaUoH9PNSEAFtpU/wYsIsBeA23ljNZGYTu8aogF4Mj0ZML+oUeEz1Ccbh9eHiTY0bZuy0oC0jsw/Rbr0YCyL13Rv5bxxTCIsrVouJfBKFPzyU8utwhS1mI+G6H2S+hdmKnoHQ/7a8OG5TOtF94ndxa0ZEFRKJuILNGCdkP8KVPguHEBxmaEKn2E8t6znmBUNwp/Loep7crC2aBjicZltuUuONPLb5J+ykvGxsCy3oditao0nVtMDyhE9fC2StDqOJuW+woO8hQpVa2xxi98V0+iRmRhP+WUDKRa59KMROvan8HLqo57QQyjSvKIxjsRTi9eksc71em+iDj2CehqEbPKG6WqE3gXQ/+lTISRh1jcSCS3rWYAuU6uFRJIBawPnO7lC7ndBq7pb8tuHlStFnikaCr7ddgg/Qj79S1SkMnvk41TrsfTQCAowW6lIfYNGlNFNu7qJsYdqosKcRYzE+irczimEH6vbdDf/7WK8GCbfxSwtcmL3qMctS7Ed8yDzy/bVaTZp8W3atHsXtYyiE0sHXPK++chh9R2P6Jq/gXDkn2RcwHKk2iV5uWqVVXq+eIGv6KEmUYKiC3/bKe0BPPdgcecrQhI0lakvKB5O9LglX6omW2mfTlkAGOHRdZiHt+mNC1WTTxlFI+EaGMdiNfU5XjW0mQZLfoR6n8ZvrxPQ
+    properties :
+     x : 852
+     y : 6
+     width : 74
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         ouvre(FEN_ParamétrageEmail)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_APropos
+    identifier : 0x284f95194a72b275
+    internal_properties : CAAAAAgAAAAeP+q60tdw/m8KjcnLcGDJfxxFYxJgcJGzmj8NaIRsM/fhhMrOHQ7yBuGQL857S6xckveKj4FnCgmE+Ak8g2miO4RBYbq1OUvuHfW5nQpClb2SxdrxRB+IzEto/3ronTOXFML0aHkkKeCpH0K/KxnP+IFaMzkinaROwxWzmQgETjhR2PdTOqry0RTcAPXmVuf+0H97F3TS/kH0XRQ+/12+kRXws8XuKqzUqmbX4+FDRMr7rXhRnnwBkYK9/EgU1NOC4Rjsl1bVGll1DapmdNDKi5Ol8IxpCPGgfUeROEBzzkDZRn4dWnQgRbGhNr5AwBIpqKKZReM1YUc+b4MMXn5mkZtcCfsTYVAgo74Mt9ak/c2Jv7pr2JqoY/kKEgpqF8fyPTReoxF0OOlsJsAxii1pFphUkKYJsiwKjtFq2rS71ohcOI2y5zO99y1LKcgvjF0THMRg0md0rxYP+yKT324GyN3HiCY5vU/3pEOt2IYXoAsDeLwVju9mtg4FpICzkHrV5ZLzf6wqDc0k9QrHnEkmH2338bs9gLSCvZVCvZ7s1WhtxwLoxz5rXAc4IgGLQPxzh2FTrkxWsCM8zjjugrxuvwefYPUAF7vM3Ay0RvHgIMttkKlsWpsOuHhuP72u4zINtvKTged1uMspomKQE9q0v0Kcw4/NxGUo2B1UaxfYbj+sqPDh1UsxKt5u7ed5KuBDASCERtNlhIPUpoZiqgIesjPxW2D+t46PhxuJrpw0M7vXAxYEsU28N+txSQn7ANBnMVAW6YCljoykt/ee/vk8Z9zniZfaGxZ0o+Z/paMBgd9kp4Oh7s0Z8oSyQDJLjq/sTA7vFANKLaq128G3ZlaCBfeYsQ7aDVHcdA==
+    properties :
+     x : 1024
+     y : 5
+     width : 32
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         ouvre(FEN_APropos)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_Separateur_1
+    identifier : 0x2d5e776b324f3087
+    internal_properties : CAAAAAgAAAAo1Lj15yxzjA5iapEPqaAbSTXV0Op4KFopLSzCKATUiBNnSls2U4iyNR+uLDX03X3A35GOkrM7GNyv5pl/ST5ZjyigjGgkCMEQtta5lY6gVo7v1KMC2cA1vnDVv7Q4KIBCgU5jPV2Ojlriryd10XgaEOGtguj1of61Ux04Y9NqsQ41j35MnBkCWMwlTp4rTC0F6dA4+qauHlD94BSrrTvSlSNde9SAUVhF7vZT8qFPva+rlEZbznwD2UUpF1jlSpdeoHA5VS7tpw0rg1mSle0+B8dBp8LUKAKopkXRDGQmcQD8YMr6kgL4AOKRl7Mfqbpy4gBw7OY5pZ83d91/U+o5FdvteJDKXQgZiBOzJB0oykWnBBOmJokLnk1aNAgbsvXAgRgaf+6VP9Ti9/Vn0JUcEH1SQKpPTUxN3cNp0vEaeyqKTW08DjVBz1s+bujXUBd7tvvRppmGCtXCf2i6YpAEdJUkS8H1wxj5HvOIvLXGmZ/FlMoWv4MMnATDT9j1pR560Fph8ZPwrVpETwn8mXatFZkHiJVnDlHkEHimHxenDlOkOPLXpWhCLR1hrlNAjbCPTsn9zIfms+BcOkU84Q51JzWQWJEpvs++Hh6qX2WUlCX062+P8oyZJPxGTrD+gY52P/F4151YC4mGF7BuRmHlKQ84kU/eCgiusCCiPnE3ShoSec4dWF8rtJiVP02S/2dj3p2UW2vpEKgz9SK3y1iwLPMuJBMEbUIZEMhB2a2DOdso9RCpgvYsvtMRSDQhJbkOO4c/eTv+BjR5TjXqLSr5jGUOB4Y/st8pTRbApzzX3mGJtLzeLRtZKZh1miDCTPZgFtcMqIeVgHIWxpFJw02umPSYfgJcqw==
+    properties :
+     x : 932
+     y : 4
+     width : 4
+     height : 34
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_Separateur_2
+    identifier : 0x2d5e77a43acd0f03
+    internal_properties : CAAAAAgAAABolHi1J3jvUDr2LoXz7RS/TVmpTGZUBN51sXmhAw/d5whsyeaxPOBo932V99zgKof6O/mFK/2cio81HG5cIIvrEPAJXJFj2sMPgnLeYlPMmXl8ckAxM0s0NvGhSCug80ukNb72h9PDJ3W7noEqhOk111NMVp6SwDTCVOTc5t5IR/0oANULa05NjyleN7UgfVZiBl0j9QGXuT8CkaXWKjxvOijCsh9TkidYlzu4tapMGtSwQUFeQT1+6L72TKN2b7R7dQ1YcNHmonRMgCbNJnpjFNQIXGvtxwsBjNeBHvwiuZLOtDi0CoZggHg/O1UDVxZMHNxGMnqRyVv1JW3ly0Dl/51NaoZuZYCtKrEz8q3m1mshcCE8uvF/bg9UALrH8J2OhyyIyf6BJ1hgOailklOxvcnOeOazkeCRcacdnk2FJLb2MUuCPMPsO/da6iyTHCMnWhc5dnENxJMAvSVz8y8LdYhn8nhG2A0S+YZ96ZbFkJQ8I7ndzJQl5V+WHHVSHPVTQzWY2AR9fhuHymZ5AuW0WgCe7yScP36hR1cX7ECaCVTH64Huiimr2HbCbfIXlFnWtYC2JaLnVlfH1TLNSJX6orQnMXoE76Ld+bm3CGzzIRALgthoLd1M+xdhS5F1bJdpnkAp2FAhrhzttnFLARDi7E6PSiABK2fJj0+j68y257Fl5Eu6FfRj74wUSUn4Zw5jA4Lbx+so5iehbdYGF4vqH9+teLkGXdSfpmLGZgYLs3CL9aP6jQsA/ZRqx4N8YAA/39zsf3GIPCyzcfmynbynAtPmSYgxsJ1rC5TSve6FYPuxbPqc1zNTJ4R5XiiiRJbYjm984JfFUJL2fhm5240mqDRYPkIcaw==
+    properties :
+     x : 1010
+     y : 4
+     width : 3
+     height : 34
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : LIB_Information1
+    identifier : 0x2d668fbb24201943
+    internal_properties : CAAAAAgAAAAmKWvv6W86NjghdCvR5ZHRiOvOrxSYhfL/VHMnRE8NEfDONa59nQxjTtcu01IZHAc3DfHOw49dORloXlhEH/GbWqzOJJzGGDHdHHziJwEcjckiWiUFMGzzju4mNlT4my2CqZrPHGzBp6FumMIFnRdlEKCIhdquP8w59Ola9dj3+Y1co8Uj6Ojp0iCoMlA6ITN4SzrzIwIUBz7fvZz2/CbSaEOgTYq75XZX1f6LFgsMqW1Ae4NEpSVCAxjx1CwfMs+WEg7Pj+7Prr6Zf2L4f+2/jCbyf4gqRyle+DQ4lzEuOXnDVM6Jeh9BjP85RQyn2ZsfovjBf5qqGb5tgg8+dUBTdJIIv9FE/JzA1j9KB79goWi19l5W0mr2A+4Jdmr2AW9Cl3s4gxQOrSAJfp856cRYTLynReY5CqapMw2oY7qTve51H9vZroKHtVv3o5Prl4cGUJ0OS2YqpzYca+K9CmDU+56WF5EQOvU+zwc=
+    properties :
+     x : 774
+     y : 15
+     width : 81
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_SousTitre2
+    identifier : 0x2d66a1ed49f02d71
+    internal_properties : CAAAAAgAAABwkjA0EXXUZLKuYYyYsbSfzBdGXx5690knT+IjKkVOzTiGItYlQyu+gs/VQb0TiuMl/cBBpVPiPoJshpADSodnna5LRDToPN5CfVf2rI0FP6F4GZYjHo9bxKCeKK/LF1Ec6PwdfO/jKLCxJYERmZiyk1yrOzUodsgOuJGuf8XtKIjrL7mFgyVVh3GU1+KWXKz0uetH1EV6LQCqOEE8gVzRXSQFrD8zO4VkHsLdvbTBADrr2RTv1cLYvMF8wyw/lq4NoRxHrvydCkmzx7rNjtyN7PN4Hrz/N6Q8GV8Yf2411KD4SmyL5z9YEYIOQmsBLIPT7w+sN274ZhEma3mLze1E1sLI6P5vYD1t2o/JS6M3EbgdU/FjOiQjgaclpsAzq3eq9xIttQJF6t6U8JsWmYPFg+D600BfPebLCYkJNIzqopi/PLojAmbeIg+bJDgXui1zVePQlMf9d69R6Q==
+    properties :
+     x : 14
+     y : 1
+     width : 182
+     height : 41
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_Defaut
+    identifier : 0x2d74d7a8277159f7
+    internal_properties : CAAAAAgAAADCwg4HYJC9whWcxus5HUMRGrJxgrYKcWL4dguiNNIi9ZTloLYPNmx+AV+xy0upj/2lgti63RY+rlkvYymklg5bk3cLp/pRsPs/EmyQdiBIU/7r+p4gosXgu/yXwzEhOEMQbDksvx09f9XEgyb8mWOoVjy5LyTtOXsVkZ6KhWTPXc6MVjvBC/FgdbyXNINbuXB16g40aTacQ/fEGag8G2ikJzH9ZX66T/QvFtCf04V9zmZ4n+3NIM0wP1Z5WZcx6bSnaZvEPLPCiF1lfZjhA8RFrxreExVcvK75jD4p1KW+2Otfv17pT2KKdbdzHMhJ/P3u07mERwkg9LcKvt5FbV3EVpH0prcDTDowg1hZlmrOyR8ubAiltNrgm4tW+wcforTQAjnLW0P7T/MqpV06BIMYXE/xGTnq7uvHL6gJDmx8VqLw6tFnI+/oh2J8msrhDXbCxyIHExYtTu18UYgmZFGgH+tMFEd9tFkwQd5ahloJadTR1CA6t7rP0eqfIMqyXoPdkJe2uv4FKgHoc+8yo6WtwFjNGJTUHLJlMM0/J00xr3IedO2FJhkp23MuGIL2Tdgr2aoYqO3mFGfPaC/fBAJyqVEzU1LU85Hrhosxvt8SuGC/xSCLW9vR7ib02QZIg+rgHQ5/7/t8gJh+HIHYPETZ/UHd+h5Ko0lX7fJ+1KyF1z0GQi4mLIcvTBoRp+bWUN7X8bIaryQTXHxDzPQTw0yrDo4qOmMvTeH+OGCWCQAcJ2hUpLOTx6ZohO2+fXCKIFiMm/EuNK85Oe3cbmgj+dDncrx/uefA/nOw7Mibs61KqQ6RC+eQUCNphj0ehQ==
+    properties :
+     x : 1149
+     y : -24
+     width : 126
+     height : 120
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : LIB_BienvenueApplication
+    identifier : 0x2d74e0067b040830
+    internal_properties : CAAAAAgAAAAXTJBOL/NV2O/oTev/wvqExFErJs5iV8NluQ62Ux2hzx3GmcD1umzVBhcmgRAgSrQc1IMM+SixZ/f9I+LmslhuOiBATo/rcbJeMPecEQBoin/enOOPfWVwecMEL97hfiYuhLmjIwHBk3fJhh12ntbrhIESmD8ar9seoi01MGKs8cLUesgISjp3UE7aTqjj4Y/tA9pdbMV3RyRf4puzH1TeQqVYmv0ECf/3+htZzjRZibyFsWm5+P54ERT7fmr2YL0sWEJ/V15CKrpKlVfp6D0VfbVujxYksSm2ctg3Byrj4xFY1IoosCYfNRsqQUDMun6qTqoHffuzcLKtge0DyW9iPt8vUwlYJomYwJGwMAl0e4HNcd99Aeu5Z+uyoW0lI7nqHfSJEfiZqa2WrF4+peYrz58Eia7aRiGOUff5MB8cHOT5NdkrEFMBIdmRqGjw6q7pqG1ZAYI9cy2NqRqBr2wb0sT6gX3Oe2N+rBw9WELX7y4Ns5uUifrpr5M4Skouy3gGnE6mKZeUjFe9ja2DIV+lav4=
+    properties :
+     x : 15
+     y : 45
+     width : 796
+     height : 28
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         // Affiche un libellé selon le mode d'exécution (Linux ou Windows)
+         si enmodelinux alors
+         	moimeme = "Bienvenue dans l'application WD Gestion de Contacts - 100% LINUX"
+         SINON
+         	moimeme = "Bienvenue dans l'application WD Gestion de Contacts"
+         FIN
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x284cfb6c0c6601da
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ popup_menus :
+  -
+    name : MENU_ChoixEtat
+    identifier : 0x284fac8b29c2441b
+    internal_properties : CAAAAAgAAACBdu8SiEsojQ5k0rJNP/DYg3sfZfbNbaNP3ustLuTSRTth1b7A9GWmG5a14fVGuQXYXmNoa02usONtX3E8Ic0GhkBunUeHRpuY0ZgLuWWNTqGbIhY6LttVPSoWUW4pc1cuU54OkdzWnvQ2hNio4YbroPmRri+0dxLOQ2EoaWRql8BIugL6Ibbmjsa8rJdwCcc5s3ILyZrT3eGpU8LLn9Nfk3BbXrQ55HvKsKdYP03/4dmiKxdecqhLYHcRzOC9HmZ+/jJyMIbulhnatC4McOw2yosKmCXaWl4wKhc4GuCRbX1odGHVCs88qadTMimkp8lBXpL+v/vZh7AUQUrJ/Ci1hVT+EhQuORZb7YfHMeBx/D/NNX/j6rOWpsuSiCX01VKBPtKFoPBthAMr
+    options :
+     -
+       name : OPT_EtatEtiquettes
+       identifier : 0x284fac8b29c3441b
+       internal_properties : CAAAAAgAAACJknwRnIPKZrOI/ltW1c3pLvjjiRRWe9zJbwakaVcOvhsmmtZd0wHr2qOLhloNRKBlrJKNI3OttVFuZHIGP7/Cw++WgLLJEmL/YY1e8SpiWmXkCXz3xYxMCaV5uwRcR1Gqylc08q+xvtPnxwYF+Khp75ybO2wTARvxj/eUrNywmX5d0C1G8u9S2/N/baogpUpGAHPKw+H05ParC8iLUI/Mf1wxtoBCyPqNN2ioKDqOlvBsS9yM6j6e2s0+YWGCrM/3FeW3ISPny7ON+36MX76ndipOAautsWhxRMjyI5XJdG4ZofXUpAXjwIGC+4Hu3ojSP+VzGwFNB+KvoCUopAOsQGly9qGqo0TKXL86sHZixljpGzdLjcwbKGUYTADyO3htR8BuKYKJJoOHGSa3jrPmbYHyWqQaEkjj29OPbXYKRHKqZwxBtkDi36y923Pj7VEM34Rz
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAACXYXa9AWpIQhtwq/44A1B5P2GUgBjR04ejXs8EtCFnN3U47ox7hEnR7D/voDSC9e5DPgIMwNgIKvAfRqu6FvQWP/cqWTdqFlbmYNAKMGhuvH2vjqHEYaQ1sqLzutkPvWYXG+WX1HvKVhi6azA=
+           code : |1+
+            
+            
+            
+            <SI CibleExécution=ApplicationWindows>
+            	
+            	
+            	// Mode aperçu avant impression
+            	iAperçu(iPage)
+            	// Imprime l'état
+            	iImprimeEtat(ETAT_Etiquettes)
+            	
+            <SINON SI CibleExécution=ApplicationLinux32>
+            	
+            	// Définit le nom du PDF destination
+            	sFichierPDF est une chaine = frepexe() +["/"]+ <§$0004§>
+            	// Définit la destination
+            	iDestination(iPDFGénérique,sFichierPDF)
+            	// Imprime l'état
+            	iImprimeEtat(ETAT_Etiquettes)
+            	// Message d'information
+            	Info(ChaîneConstruit(<§$0003§>,sFichierPDF))
+            	
+            <FIN>
+            
+            
+           type : 32
+     -
+       name : OPT_Avec_photo_sans_code_barres
+       identifier : 0x284facc92c9c3942
+       internal_properties : CAAAAAgAAAA/hcNGbGuS32WiDSXpvj76vlqdJWaZlSdA7zVpAs56eiUTxSpjmcj3UwYJk0iCUJgT1K6O1gywwRnb9StKDltFyBAwPf3v2UsWsv2eEHe/GxKhckrj2f5GGlpx0RbkFuUGarQBhRikkhSuZRU2t0v4FilM/GSxeROyX+ucXtOn3EBIH7pgONcQYWYK93zF9NLlcuDwvyJrzsyn4mM+TMgEcijkAFO50SkaX9HZh6MWDaYzaKn/m6jD3GB6jn0VxsjxlRID4+vWs9h/1EKK5KaJYDx2s8z+pVAZbsJLoUAcqEnYQ1IOys2tPjhi9NyhvPvQ0lt4QNMPq7RI2VSiHThua7NiGi4twi5AnBvPFHfPnbzvGPO+bkV24v4wbgs2GQgkRd3TJ6EtHL0zH93Iapsrr1PX4+dLnoO+MqM0E++qgxo7Rrkc4Z+WQ+8wHIyNp3SShkFynQOE
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAAJ69xX9/zN1pHqBwikr95fOYt+TLY39xPx2NP+yAUJQXvuoEC9Wh3hMol/tpQqcxyJfEj05qrtEWmYwzQJ16P/ll5vkgKvr6GzrZ2rl5FFjTwGf0Z74iGQQ2MwS0igIMuahlogX/VAzIJU9a4=
+           code : |1+
+            
+            
+            
+            <SI CibleExécution=ApplicationWindows>
+            	// Mode aperçu avant impression
+            	iAperçu(iPage)
+            	// Imprime l'état
+            	iImprimeEtat(ETAT_EtiquettesPhoto)
+            	
+            <SINON SI CibleExécution=ApplicationLinux32>
+            	// Définit le nom du PDF destination
+            	sFichierPDF est une chaine = frepexe() +["/"]+ "etiquettesphoto.pdf"
+            	// Définit la destination
+            	iDestination(iPDFGénérique,sFichierPDF)
+            	// Imprime l'état
+            	iImprimeEtat(ETAT_EtiquettesPhoto)
+            	// Message d'information
+            	Info(ChaîneConstruit(<§$0003§>,sFichierPDF))
+            	
+            <FIN>
+            
+            
+            
+           type : 32
+     -
+       name : OPT_Avec_photo_et_code_barres
+       identifier : 0x284facd72c9f6eb4
+       internal_properties : CAAAAAgAAABYZSr9NyVsOSsHMgNn+MCoAZMUHt36elV4s1+QXu4UpPRnPCYahkbXZWIVREibtqPa0vmWFKpXXjB7h35RU14ifEo29HDEilHOY6MIo92N7Yi7wEafcaDcHYh3gaA4anJA0WrdHSDLipBXqwFv56BX5UXrb6/o97pfECglKiGWS6jPXC1kWQCaiFvddl0I/oy/Ktttjz+xRYIUvlyIjO5tmO8dun4LDa5i0Un7YsFfSKsGdxBNxDgDL7tzPdiPSc+WGUv1+rSClQl0yampafNR5fWvh/hafvlhYuyH7TZQ8vB508VRBzpYHwYHiPYIJTz2RlUYkODMbWLybUh4vYOZeLxLuyt+IaVhuze7CL5eUaLWfpzTt9OyqgxkzHqq54I2YNcVjUQYK5BlHkZABIFhhwhL6x6GlPVEhum1OCyTgCCMcAu2A1WgPfHS0tNNQ+RiQoW8R6Qj
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAABdGAiFU+MqVN3PR2Av3IkGa969uEpX0GsmAt8EpIz8VvVTUQjbvWLx/KpjIhC4I27WlYyH7MqmxfX8bDlWDeVGgt5JVajKaIkR9qmrK0DAbTghXAGE1UYHPxOeWrwA2Wgvz9fNgTwfyIkKuZF5YwMzu8+sMJh7C2UJIHAqt4JpX0CylUYd/CLTFyCR0rE/5qFVIbiESmAiQjOJWfBSMaEJr2uPCtdiJg5kHaiZzxviJOPOfSiMPxMYyReVAMa/VGEzIQciaXmjG35TJroZ6uYpWBAWym4=
+           code : |1+
+            
+            
+            
+            
+            <SI CibleExécution=ApplicationWindows>
+            	
+            	// Mode aperçu avant impression
+            	iAperçu(iPage)
+            	// Imprime l'état
+            	iImprimeEtat(ETAT_EtiquettesPhotoCodeBarres)
+            	
+            <FIN>
+            
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - fr-FR
+ message_bar :
+  internal_properties : CAAAAAgAAABsUxBCmR3rrRfqOhTTAXFEsCRbfnaKruPjqtBak23rA+/y5/O4SifxlxG0dzhk/uvDwQvifx3aSjKt/bI1VRHlgGTxeWjt43kViaHRWsXNUtb/R3q0tzofNCUt
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAD+eG+VGOGFy1BP/URnQhe7aInK+xSocCD2JJAdubT8PoRVClIB9HLAYzajH1Of0zUjoeVhdVOvtUqn34Cq5lSUg8duOYbXSjDbcent5xkhtt8VfLH3/BAtBfbUOKByiTsjgS7pPwtKucKUQozFx6BrZqagiEatG4KMhjPM33uvQNw6VG3f7A3EKbtkq+r9ohWkOh+3deCtkcAxkjwn5578T6nodaH6QETRJB1IOBtU5jBpRBJgfRWgPJzKbNQh4qZDLhkynRWduTNl0F7hQkju7B1njeFA7jJcXFWn9PitlmtLHMBZJmfA7yLjX01Ipx+IyFw4Y5WtJ8mksLiwFubMBme9+gpeEMNMD2OscLykDQvqYDbfqIUg1A0otw==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  templates :
+   -
+     name : FEN_Contacts
+     identifier : 0x1543d401024ac833
+     code_elements :
+      internal_properties : CAAAAAgAAACc7ut0FMsgjgn9omKIAZLjdj/pdC1GweGUYriTswu9ictWGB9ZIatX9b4GtI2iHU/1FrxYK6+e5ItORY8mdjj7uGSKU7O3fMcIbDx4jKHZuy4fPgpplTG1k55fNHu1d4Q=
+      type_code : 1
+      p_codes :
+       -
+         type : 180
+         enabled : false
+       -
+         type : 230
+         enabled : false
+       -
+         type : 11
+       -
+         type : 12
+       -
+         type : 17
+       -
+         type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAABIOjMJXcPKe5uu87BaDPvcJutinHqdxTCFff9XGa9YZSAZnb8W6yCjvRrIFaC6Imd2vWjPZCISbingD0WV0fyGHhk8vj0h/EtF+/xvD5GvJmWm22aycrZnTQXpFaP5q7g=
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x184cfaf300c2279c
+  internal_properties : CAAAAAgAAACwgmbHVreQ0NfCJuNEMNx9hqaQ5dkVrd2Oo7mQ5gOG8Fiisi8rXZ065QW/mtNewTeXnw==
+  strings :
+   -
+     text :
+      fr-FR : commande_%1.pdf
+     index : 0
+   -
+     text :
+      fr-FR : "La commande a été imprimée dans ce fichier : %1"
+     index : 1
+   -
+     text :
+      fr-FR : contacts.pdf
+     index : 2
+   -
+     text :
+      fr-FR : "Les étiquettes ont été imprimées dans ce fichier : %1"
+     index : 3
+   -
+     text :
+      fr-FR : etiquettes.pdf
+     index : 4
+   -
+     text :
+      fr-FR : "La liste des contacts a été imprimée dans ce fichier :%1"
+     index : 5
+ dialogs :
+  -
+    identifier : 0x18495ec201da01e2
+    internal_properties : CAAAAAgAAAAeIrHNuvgabmxC507afD4+GP/+lY0HyTIvxXAHVVq1IafG7dK7wY1uHwJCVimcJnn/ipdkhmj16jraNQJjylTEXle11LtDElH9x2Fjgw==
+    label :
+     fr-FR : Confirmez-vous la suppression du contact '%1' ?
+    image : {}
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : " &Oui"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Non"
+       image : {}
+       value : 2
+  -
+    identifier : 0x184961a4043645c4
+    internal_properties : CAAAAAgAAAAs9+A8gK7TuRlYIZ5dQdVc5RDWsdvpmFjjVAvp576OFdvTC7wILTuLJScdtBfVGM6er03Q9F1/xzpJlvxJbW5JQcBFaEkWJtBkR+/q
+    label :
+     fr-FR : "Confirmez-vous la synchronisation des contacts de l'application avec ceux de Outlook du PC%1? "
+    image : {}
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : "&Oui"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Non"
+       image : {}
+       value : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Contacts.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

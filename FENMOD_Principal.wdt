@@ -1,0 +1,58 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FENMOD_Principal
+ major_version : 28
+ minor_version : 0
+ type : 18
+ description : ""
+ subtype : 0
+window :
+ name : FENMOD_Principal
+ identifier : 0x2d653c670d7f4db2
+ internal_properties : CAAAAAgAAADREG9xBRsV7qzKSwMOGwA+iiBnWxHx4vbmnh3PkRHmYuoMqFkTGENU8HfYzEL2j52CRD0JdkI7mDqOVolpIA+AnzE4eqB5Azkt4vBcJDDvMfF5dlgRL7nCpTghJvTdhgG2HSBEB5Dpil1LNtdSl3dBFR7EG3oK6WegKnhBThCsSvQbWpF08+pP3BHSXBuxyeDqDQAEJe4NTa/KUNerO5//5DmaGaKpdJCZrsDWF+EfsxntRrZIWqIQJdT340hzT6Vs0A7BSXkfJjU5XkfNa64EHZKHpLlz0vWUIDeH4tMRTW5hfvED4mCweDBE341nsgevywjppWV36UQeS8UMBIu7LVas8YSV4n0rLbL7hOaUb8c0YC+HK2SddJXVnHtDwxN7KC1d8RSMcxuWSaIu3+e1uZyOs2IMpX6UM7RtTPZDoNePg69qjwixnC57IZv7OYj2b8/IPnMx1hPbYsm7bU+b6Lzx0Sfo4zr5ljMyUlKyHjO3joC+aB3Ibd6I/k0hcb+PuSvSiFl4ZktX1pk4/hI/nEuPUjHEDeQNlXCkA2VwrbLN22Jnl0ObngRz2xleUhFQeOfVXz0n/G1LR7Ry3gmYHQFMjOdNePmD4v8pTgL2BNdFkGIYS2D9oFDLAGS5O9SjmUN+D1LdoqhsM3D2s1fnVQb8rJY8MOSbtUFhYY+trwnG42pJskBH1aDKjOsMXbotomWuHgKFzzXeC5AWGtt7j38pSgV9/lRmJETXVlfUr8jTqFIlMD4+7V9hOnkYKBuRVQROGzeGo1jAPJ//R6kR61IocskLGatTzF6qY20kcKp2CunYLAJeydoerzK8Bg==
+ properties :
+  width : 1010
+  height : 762
+  widthClient : 1008
+  heightClient : 730
+ controls : []
+ menu :
+  name : _Menu
+  identifier : 0x2d653bfa0748a3be
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACth/uaGrPRgnXSds7wdoRu+6G7tBM9OnLiTiR/6lgRZu3G7UwlAdmTaiQsvCX2HLFLZkrL81a+bX5rFkf7zvAfUO6Jpjp/UHZMO+LE4IS/ZIWynEDVLVNmfeDx6g==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FENMOD_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fbcee1e0bd5cb68
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
